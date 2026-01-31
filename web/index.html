@@ -1,38 +1,91 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <!--
-    If you are serving your web app in a path other than the root, change the
-    href value below to reflect the base path you are serving from.
-
-    The path provided below has to start and end with a slash "/" in order for
-    it to work correctly.
-
-    For more details:
-    * https://developer.mozilla.org/en-US/docs/Web/HTML/Element/base
-
-    This is a placeholder for base href that will be replaced by the value of
-    the `--base-href` argument provided to `flutter build`.
-  -->
   <base href="$FLUTTER_BASE_HREF">
-
+  
   <meta charset="UTF-8">
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
-  <meta name="description" content="A new Flutter project.">
-
-  <!-- iOS meta tags & icons -->
-  <meta name="mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black">
-  <meta name="apple-mobile-web-app-title" content="bedrock_ranked_app">
-  <link rel="apple-touch-icon" href="icons/Icon-192.png">
-
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Primary Meta Tags -->
+  <title>Bedrock Ranked - Competitive Minecraft Speedrunning</title>
+  <meta name="title" content="Bedrock Ranked - Competitive Minecraft Speedrunning">
+  <meta name="description" content="Compete with speedrunners worldwide in Minecraft Bedrock Edition ranked matches. Track your ELO, climb the leaderboard, and practice with solo seeds across multiple game modes.">
+  <meta name="keywords" content="Minecraft, Bedrock Edition, Speedrunning, Ranked, ELO, Leaderboard, Competitive Gaming, MCBE">
+  <meta name="author" content="Bedrock Ranked">
+  <meta name="robots" content="index, follow">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://ma-ehy.github.io/bedrock-ranked/">
+  <meta property="og:title" content="Bedrock Ranked - Competitive Minecraft Speedrunning">
+  <meta property="og:description" content="Compete with speedrunners worldwide in Minecraft Bedrock Edition ranked matches. Track your ELO, climb the leaderboard, and practice with solo seeds.">
+  <meta property="og:image" content="https://ma-ehy.github.io/bedrock-ranked/icons/Icon-512.png">
+  <meta property="og:site_name" content="Bedrock Ranked">
+  
+  <!-- Twitter -->
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:url" content="https://ma-ehy.github.io/bedrock-ranked/">
+  <meta property="twitter:title" content="Bedrock Ranked - Competitive Minecraft Speedrunning">
+  <meta property="twitter:description" content="Compete with speedrunners worldwide in Minecraft Bedrock Edition ranked matches. Track your ELO, climb the leaderboard, and practice with solo seeds.">
+  <meta property="twitter:image" content="https://ma-ehy.github.io/bedrock-ranked/icons/Icon-512.png">
+  
   <!-- Favicon -->
-  <link rel="icon" type="image/png" href="favicon.png"/>
+  <link rel="icon" type="image/png" href="favicon.png">
+  <link rel="apple-touch-icon" href="icons/Icon-192.png">
+  
+  <!-- Theme Color -->
+  <meta name="theme-color" content="#673AB7">
+  <meta name="msapplication-TileColor" content="#673AB7">
+  
+  <!-- Canonical URL -->
+  <link rel="canonical" href="https://ma-ehy.github.io/bedrock-ranked/">
+  
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebApplication",
+    "name": "Bedrock Ranked",
+    "description": "Competitive Minecraft Bedrock Edition speedrunning platform with ELO rankings and leaderboards",
+    "url": "https://ma-ehy.github.io/bedrock-ranked/",
+    "applicationCategory": "Game",
+    "operatingSystem": "Web Browser",
+    "offers": {
+      "@type": "Offer",
+      "price": "0",
+      "priceCurrency": "USD"
+    }
+  }
+  </script>
 
-  <title>bedrock_ranked_app</title>
   <link rel="manifest" href="manifest.json">
+
+  <script>
+    var serviceWorkerVersion = null;
+    var scriptLoaded = false;
+    function loadMainDartJs() {
+      if (scriptLoaded) {
+        return;
+      }
+      scriptLoaded = true;
+      var scriptTag = document.createElement('script');
+      scriptTag.src = 'main.dart.js';
+      scriptTag.type = 'application/javascript';
+      document.body.append(scriptTag);
+    }
+
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('flutter-first-frame', function () {
+        navigator.serviceWorker.register('flutter_service_worker.js');
+      });
+    }
+  </script>
 </head>
 <body>
   <script src="flutter_bootstrap.js" async></script>
+  
+  <noscript>
+    <p>Bedrock Ranked requires JavaScript to run. Please enable JavaScript in your browser.</p>
+  </noscript>
 </body>
 </html>
