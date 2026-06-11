@@ -414,23 +414,23 @@ function getRankClass(rank) {
 }
 
 function getTier(elo) {
-  if (elo >= 2000) return { name: 'EGapple',    emoji: ':purple_circle:',  color: '#A855F7', bg: 'rgba(168,85,247,0.15)' };
-  if (elo >= 1900) return { name: 'Gapple III', emoji: ':yellow_circle:',  color: '#FFD700', bg: 'rgba(255,215,0,0.12)' };
-  if (elo >= 1800) return { name: 'Gapple II',  emoji: ':yellow_circle:',  color: '#EAB308', bg: 'rgba(234,179,8,0.12)' };
-  if (elo >= 1700) return { name: 'Gapple I',   emoji: ':yellow_circle:',  color: '#CA8A04', bg: 'rgba(202,138,4,0.12)' };
-  if (elo >= 1600) return { name: 'Bread III',  emoji: ':brown_square:',   color: '#D97706', bg: 'rgba(217,119,6,0.12)' };
-  if (elo >= 1500) return { name: 'Bread II',   emoji: ':brown_square:',   color: '#B45309', bg: 'rgba(180,83,9,0.12)' };
-  if (elo >= 1400) return { name: 'Bread I',    emoji: ':brown_square:',   color: '#92400E', bg: 'rgba(146,64,14,0.12)' };
-  if (elo >= 1300) return { name: 'Apple III',  emoji: ':red_circle:',     color: '#EF4444', bg: 'rgba(239,68,68,0.12)' };
-  if (elo >= 1200) return { name: 'Apple II',   emoji: ':red_circle:',     color: '#DC2626', bg: 'rgba(220,38,38,0.12)' };
-  if (elo >= 1100) return { name: 'Apple I',    emoji: ':red_circle:',     color: '#B91C1C', bg: 'rgba(185,28,28,0.12)' };
-  if (elo >= 1000) return { name: 'Carrot III', emoji: ':orange_circle:',  color: '#F97316', bg: 'rgba(249,115,22,0.12)' };
-  if (elo >= 900)  return { name: 'Carrot II',  emoji: ':orange_circle:',  color: '#EA580C', bg: 'rgba(234,88,12,0.12)' };
-  if (elo >= 800)  return { name: 'Carrot I',   emoji: ':orange_circle:',  color: '#C2410C', bg: 'rgba(194,65,12,0.12)' };
-  if (elo >= 700)  return { name: 'Melon III',  emoji: ':green_circle:',   color: '#22C55E', bg: 'rgba(34,197,94,0.12)' };
-  if (elo >= 600)  return { name: 'Melon II',   emoji: ':green_circle:',   color: '#16A34A', bg: 'rgba(22,163,74,0.12)' };
-  if (elo >= 500)  return { name: 'Melon I',    emoji: ':green_circle:',   color: '#15803D', bg: 'rgba(21,128,61,0.12)' };
-  return             { name: 'Potato',      emoji: ':potato:',         color: '#78716C', bg: 'rgba(120,113,108,0.12)' };
+  if (elo >= 2000) return { name: 'EGapple',    emoji: '🟣', color: '#A855F7', bg: 'rgba(168,85,247,0.15)' };
+  if (elo >= 1900) return { name: 'Gapple III', emoji: '🟡', color: '#FFD700', bg: 'rgba(255,215,0,0.12)' };
+  if (elo >= 1800) return { name: 'Gapple II',  emoji: '🟡', color: '#EAB308', bg: 'rgba(234,179,8,0.12)' };
+  if (elo >= 1700) return { name: 'Gapple I',   emoji: '🟡', color: '#CA8A04', bg: 'rgba(202,138,4,0.12)' };
+  if (elo >= 1600) return { name: 'Bread III',  emoji: '🟫', color: '#D97706', bg: 'rgba(217,119,6,0.12)' };
+  if (elo >= 1500) return { name: 'Bread II',   emoji: '🟫', color: '#B45309', bg: 'rgba(180,83,9,0.12)' };
+  if (elo >= 1400) return { name: 'Bread I',    emoji: '🟫', color: '#92400E', bg: 'rgba(146,64,14,0.12)' };
+  if (elo >= 1300) return { name: 'Apple III',  emoji: '🔴', color: '#EF4444', bg: 'rgba(239,68,68,0.12)' };
+  if (elo >= 1200) return { name: 'Apple II',   emoji: '🔴', color: '#DC2626', bg: 'rgba(220,38,38,0.12)' };
+  if (elo >= 1100) return { name: 'Apple I',    emoji: '🔴', color: '#B91C1C', bg: 'rgba(185,28,28,0.12)' };
+  if (elo >= 1000) return { name: 'Carrot III', emoji: '🟠', color: '#F97316', bg: 'rgba(249,115,22,0.12)' };
+  if (elo >= 900)  return { name: 'Carrot II',  emoji: '🟠', color: '#EA580C', bg: 'rgba(234,88,12,0.12)' };
+  if (elo >= 800)  return { name: 'Carrot I',   emoji: '🟠', color: '#C2410C', bg: 'rgba(194,65,12,0.12)' };
+  if (elo >= 700)  return { name: 'Melon III',  emoji: '🟢', color: '#22C55E', bg: 'rgba(34,197,94,0.12)' };
+  if (elo >= 600)  return { name: 'Melon II',   emoji: '🟢', color: '#16A34A', bg: 'rgba(22,163,74,0.12)' };
+  if (elo >= 500)  return { name: 'Melon I',    emoji: '🟢', color: '#15803D', bg: 'rgba(21,128,61,0.12)' };
+  return             { name: 'Potato',      emoji: '🥔', color: '#78716C', bg: 'rgba(120,113,108,0.12)' };
 }
 
 // STATS TAB
