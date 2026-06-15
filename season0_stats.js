@@ -1,6 +1,5 @@
 // season0_stats.js
 window.SEASON0_STATS = {
-{
   "753751964835119115": {
     "total_games": 241,
     "wins": 163,
@@ -38291,5 +38290,4 @@ window.SEASON0_STATS = {
       }
     }
   }
-}
 }
