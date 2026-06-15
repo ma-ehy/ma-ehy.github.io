@@ -1,9 +1,10 @@
 // season0_stats.js
 window.SEASON0_STATS = {
+{
   "753751964835119115": {
-    "total_games": 237,
-    "wins": 162,
-    "losses": 55,
+    "total_games": 241,
+    "wins": 163,
+    "losses": 58,
     "draws": 11,
     "forfeits": 0,
     "by_mode": {
@@ -24,8 +25,8 @@ window.SEASON0_STATS = {
         ]
       },
       "bastion_118": {
-        "wins": 42,
-        "losses": 6,
+        "wins": 43,
+        "losses": 8,
         "draws": 4,
         "times": [
           947,
@@ -58,12 +59,13 @@ window.SEASON0_STATS = {
           764,
           940,
           820,
-          571
+          571,
+          914
         ]
       },
       "warped_forest_118": {
         "wins": 83,
-        "losses": 30,
+        "losses": 31,
         "draws": 6,
         "times": [
           920,
@@ -190,7 +192,7 @@ window.SEASON0_STATS = {
         ]
       }
     },
-    "games_since_reset": 193,
+    "games_since_reset": 197,
     "peak_elo": 1849,
     "completion_times": [
       920,
@@ -313,7 +315,8 @@ window.SEASON0_STATS = {
       504,
       633,
       571,
-      891
+      891,
+      914
     ],
     "head_to_head": {
       "1084858231467294771": {
@@ -321,7 +324,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1006889990405509120": {
-        "wins": 6,
+        "wins": 7,
         "losses": 4
       },
       "612907640825184256": {
@@ -378,7 +381,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "973672722758500414": {
         "wins": 6,
@@ -398,7 +401,7 @@ window.SEASON0_STATS = {
       },
       "860114717158539265": {
         "wins": 2,
-        "losses": 5
+        "losses": 6
       },
       "189167787363532809": {
         "wins": 1,
@@ -487,6 +490,10 @@ window.SEASON0_STATS = {
       "1366454169623330826": {
         "wins": 2,
         "losses": 0
+      },
+      "375037139731087370": {
+        "wins": 0,
+        "losses": 1
       }
     }
   },
@@ -800,31 +807,68 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 1,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 1,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
-    "games_since_reset": 0
+    "games_since_reset": 0,
+    "peak_elo": 949,
+    "completion_times": [],
+    "head_to_head": {}
   },
   "722828551929331732": {
-    "total_games": 288,
-    "wins": 186,
-    "losses": 72,
-    "draws": 21,
+    "total_games": 308,
+    "wins": 201,
+    "losses": 76,
+    "draws": 22,
     "forfeits": 0,
     "by_mode": {
       "stronghold_116": {
@@ -846,9 +890,9 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
-        "wins": 184,
-        "losses": 71,
-        "draws": 21,
+        "wins": 199,
+        "losses": 75,
+        "draws": 22,
         "times": [
           855,
           897,
@@ -996,7 +1040,20 @@ window.SEASON0_STATS = {
           696,
           707,
           919,
-          970
+          970,
+          999,
+          599,
+          918,
+          595,
+          788,
+          652,
+          773,
+          871,
+          968,
+          793,
+          542,
+          789,
+          1061
         ]
       },
       "village_116": {
@@ -1033,7 +1090,7 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 245,
+    "games_since_reset": 265,
     "peak_elo": 1772,
     "completion_times": [
       855,
@@ -1184,7 +1241,20 @@ window.SEASON0_STATS = {
       696,
       707,
       919,
-      970
+      970,
+      999,
+      599,
+      918,
+      595,
+      788,
+      652,
+      773,
+      871,
+      968,
+      793,
+      542,
+      789,
+      1061
     ],
     "head_to_head": {
       "1383851800901451839": {
@@ -1193,7 +1263,7 @@ window.SEASON0_STATS = {
       },
       "1119297487426027581": {
         "wins": 1,
-        "losses": 2
+        "losses": 3
       },
       "1084858231467294771": {
         "wins": 3,
@@ -1249,7 +1319,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 5,
-        "losses": 2
+        "losses": 4
       },
       "513136462129004545": {
         "wins": 1,
@@ -1312,7 +1382,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "919384576382623744": {
-        "wins": 20,
+        "wins": 22,
         "losses": 2
       },
       "760141255963050055": {
@@ -1384,7 +1454,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "669945802084319232": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0
       },
       "1346019420568289300": {
@@ -1396,12 +1466,12 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1062411728849223861": {
-        "wins": 1,
+        "wins": 4,
         "losses": 0
       },
       "1415098611888296059": {
-        "wins": 0,
-        "losses": 2
+        "wins": 4,
+        "losses": 3
       },
       "968686355007807538": {
         "wins": 1,
@@ -1424,6 +1494,18 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "536681523244433418": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1319828319449124914": {
+        "wins": 3,
+        "losses": 0
+      },
+      "533815600003285012": {
+        "wins": 1,
+        "losses": 0
+      },
+      "375037139731087370": {
         "wins": 1,
         "losses": 0
       }
@@ -1571,11 +1653,11 @@ window.SEASON0_STATS = {
     }
   },
   "1415098611888296059": {
-    "total_games": 124,
-    "wins": 34,
-    "losses": 82,
+    "total_games": 179,
+    "wins": 68,
+    "losses": 103,
     "draws": 2,
-    "forfeits": 2,
+    "forfeits": 3,
     "by_mode": {
       "stronghold_116": {
         "wins": 0,
@@ -1600,8 +1682,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 24,
-        "losses": 47,
+        "wins": 58,
+        "losses": 68,
         "draws": 2,
         "times": [
           1327,
@@ -1620,7 +1702,38 @@ window.SEASON0_STATS = {
           821,
           909,
           890,
-          596
+          596,
+          836,
+          783,
+          768,
+          795,
+          847,
+          569,
+          1012,
+          742,
+          749,
+          844,
+          667,
+          715,
+          807,
+          548,
+          694,
+          992,
+          601,
+          872,
+          978,
+          681,
+          836,
+          882,
+          809,
+          743,
+          711,
+          823,
+          748,
+          1342,
+          1169,
+          596,
+          825
         ]
       },
       "village_116": {
@@ -1662,8 +1775,8 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 90,
-    "peak_elo": 1161,
+    "games_since_reset": 145,
+    "peak_elo": 1445,
     "completion_times": [
       1327,
       849,
@@ -1691,7 +1804,38 @@ window.SEASON0_STATS = {
       604,
       670,
       596,
-      566
+      566,
+      836,
+      783,
+      768,
+      795,
+      847,
+      569,
+      1012,
+      742,
+      749,
+      844,
+      667,
+      715,
+      807,
+      548,
+      694,
+      992,
+      601,
+      872,
+      978,
+      681,
+      836,
+      882,
+      809,
+      743,
+      711,
+      823,
+      748,
+      1342,
+      1169,
+      596,
+      825
     ],
     "head_to_head": {
       "753751964835119115": {
@@ -1708,7 +1852,7 @@ window.SEASON0_STATS = {
       },
       "973672722758500414": {
         "wins": 0,
-        "losses": 1
+        "losses": 3
       },
       "665713676870746132": {
         "wins": 1,
@@ -1723,24 +1867,24 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "722828551929331732": {
-        "wins": 2,
-        "losses": 0
+        "wins": 3,
+        "losses": 4
       },
       "978126878370054174": {
         "wins": 10,
         "losses": 39
       },
       "1119297487426027581": {
-        "wins": 1,
-        "losses": 4
+        "wins": 2,
+        "losses": 5
       },
       "333043405259014145": {
-        "wins": 1,
+        "wins": 4,
         "losses": 0
       },
       "987853918631514153": {
-        "wins": 0,
-        "losses": 1
+        "wins": 3,
+        "losses": 4
       },
       "238046177256407040": {
         "wins": 2,
@@ -1755,23 +1899,67 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1062411728849223861": {
-        "wins": 1,
+        "wins": 3,
         "losses": 0
       },
       "795087455018942468": {
-        "wins": 0,
-        "losses": 1
+        "wins": 2,
+        "losses": 8
       },
       "1356080842010525749": {
         "wins": 0,
         "losses": 1
+      },
+      "1319828319449124914": {
+        "wins": 1,
+        "losses": 0
+      },
+      "375037139731087370": {
+        "wins": 2,
+        "losses": 2
+      },
+      "1006889990405509120": {
+        "wins": 1,
+        "losses": 1
+      },
+      "968692071600902244": {
+        "wins": 5,
+        "losses": 0
+      },
+      "1452226277896486926": {
+        "wins": 2,
+        "losses": 0
+      },
+      "1398055914925326356": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1204668604952608789": {
+        "wins": 1,
+        "losses": 0
+      },
+      "936633999642746970": {
+        "wins": 5,
+        "losses": 0
+      },
+      "811682515014254623": {
+        "wins": 2,
+        "losses": 0
+      },
+      "1436409282517139477": {
+        "wins": 1,
+        "losses": 1
+      },
+      "1453993107753271310": {
+        "wins": 1,
+        "losses": 0
       }
     }
   },
   "978126878370054174": {
-    "total_games": 418,
+    "total_games": 419,
     "wins": 312,
-    "losses": 100,
+    "losses": 101,
     "draws": 0,
     "forfeits": 2,
     "by_mode": {
@@ -1904,7 +2092,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 76,
-        "losses": 28,
+        "losses": 29,
         "draws": 0,
         "times": [
           464,
@@ -2088,7 +2276,7 @@ window.SEASON0_STATS = {
         ]
       }
     },
-    "games_since_reset": 362,
+    "games_since_reset": 363,
     "peak_elo": 1821,
     "completion_times": [
       610,
@@ -2393,7 +2581,7 @@ window.SEASON0_STATS = {
       },
       "973672722758500414": {
         "wins": 5,
-        "losses": 6
+        "losses": 7
       },
       "612907640825184256": {
         "wins": 4,
@@ -2586,8 +2774,8 @@ window.SEASON0_STATS = {
     }
   },
   "768447732137852959": {
-    "total_games": 263,
-    "wins": 126,
+    "total_games": 265,
+    "wins": 128,
     "losses": 135,
     "draws": 2,
     "forfeits": 15,
@@ -2627,7 +2815,7 @@ window.SEASON0_STATS = {
         ]
       },
       "ruined_portal_116": {
-        "wins": 24,
+        "wins": 25,
         "losses": 27,
         "draws": 0,
         "times": [
@@ -2646,7 +2834,8 @@ window.SEASON0_STATS = {
           486,
           1351,
           489,
-          446
+          446,
+          842
         ]
       },
       "bastion_118": {
@@ -2725,7 +2914,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "shipwreck_116": {
-        "wins": 19,
+        "wins": 20,
         "losses": 17,
         "draws": 1,
         "times": [
@@ -2743,7 +2932,7 @@ window.SEASON0_STATS = {
         ]
       }
     },
-    "games_since_reset": 239,
+    "games_since_reset": 241,
     "peak_elo": 1440,
     "completion_times": [
       688,
@@ -2836,7 +3025,8 @@ window.SEASON0_STATS = {
       1309,
       550,
       778,
-      835
+      835,
+      842
     ],
     "head_to_head": {
       "375037139731087370": {
@@ -2868,7 +3058,7 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "1383851800901451839": {
-        "wins": 4,
+        "wins": 5,
         "losses": 6
       },
       "1191423265768476766": {
@@ -2968,7 +3158,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1414768997852778496": {
-        "wins": 7,
+        "wins": 8,
         "losses": 0
       }
     }
@@ -3092,10 +3282,10 @@ window.SEASON0_STATS = {
     }
   },
   "1436409282517139477": {
-    "total_games": 28,
-    "wins": 6,
-    "losses": 19,
-    "draws": 3,
+    "total_games": 37,
+    "wins": 11,
+    "losses": 22,
+    "draws": 4,
     "forfeits": 2,
     "by_mode": {
       "stronghold_116": {
@@ -3117,14 +3307,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
-        "wins": 6,
-        "losses": 18,
-        "draws": 3,
+        "wins": 11,
+        "losses": 21,
+        "draws": 4,
         "times": [
           2400,
           915,
           1382,
-          2221
+          2221,
+          940,
+          1263,
+          1613,
+          806
         ]
       },
       "village_116": {
@@ -3158,17 +3352,21 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 27,
+    "games_since_reset": 36,
     "peak_elo": 1037,
     "completion_times": [
       2400,
       915,
       1382,
-      2221
+      2221,
+      940,
+      1263,
+      1613,
+      806
     ],
     "head_to_head": {
       "973672722758500414": {
-        "wins": 2,
+        "wins": 3,
         "losses": 3
       },
       "978126878370054174": {
@@ -3201,7 +3399,27 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 0,
+        "losses": 2
+      },
+      "1119297487426027581": {
+        "wins": 0,
         "losses": 1
+      },
+      "919384576382623744": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1415098611888296059": {
+        "wins": 1,
+        "losses": 1
+      },
+      "936633999642746970": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1489016751692972183": {
+        "wins": 1,
+        "losses": 0
       }
     }
   },
@@ -4318,10 +4536,10 @@ window.SEASON0_STATS = {
     }
   },
   "987853918631514153": {
-    "total_games": 119,
-    "wins": 66,
-    "losses": 44,
-    "draws": 8,
+    "total_games": 154,
+    "wins": 88,
+    "losses": 52,
+    "draws": 13,
     "forfeits": 1,
     "by_mode": {
       "stronghold_116": {
@@ -4343,9 +4561,9 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
-        "wins": 66,
-        "losses": 44,
-        "draws": 7,
+        "wins": 88,
+        "losses": 52,
+        "draws": 12,
         "times": [
           750,
           865,
@@ -4392,7 +4610,27 @@ window.SEASON0_STATS = {
           1268,
           1519,
           599,
-          649
+          649,
+          1043,
+          1050,
+          588,
+          581,
+          735,
+          754,
+          718,
+          770,
+          865,
+          774,
+          768,
+          768,
+          586,
+          777,
+          1164,
+          650,
+          970,
+          918,
+          693,
+          467
         ]
       },
       "village_116": {
@@ -4426,8 +4664,8 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 103,
-    "peak_elo": 1527,
+    "games_since_reset": 138,
+    "peak_elo": 1625,
     "completion_times": [
       750,
       865,
@@ -4474,7 +4712,27 @@ window.SEASON0_STATS = {
       1268,
       1519,
       599,
-      649
+      649,
+      1043,
+      1050,
+      588,
+      581,
+      735,
+      754,
+      718,
+      770,
+      865,
+      774,
+      768,
+      768,
+      586,
+      777,
+      1164,
+      650,
+      970,
+      918,
+      693,
+      467
     ],
     "head_to_head": {
       "1398004834312917083": {
@@ -4482,8 +4740,8 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "1119297487426027581": {
-        "wins": 2,
-        "losses": 6
+        "wins": 4,
+        "losses": 9
       },
       "748550850481225728": {
         "wins": 2,
@@ -4514,7 +4772,7 @@ window.SEASON0_STATS = {
         "losses": 3
       },
       "973672722758500414": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1
       },
       "1379627754852712468": {
@@ -4522,7 +4780,7 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "936633999642746970": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1
       },
       "1453993107753271310": {
@@ -4538,15 +4796,15 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "919384576382623744": {
-        "wins": 8,
+        "wins": 9,
         "losses": 0
       },
       "1415098611888296059": {
-        "wins": 1,
-        "losses": 0
+        "wins": 4,
+        "losses": 3
       },
       "1436409282517139477": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "1102987777332748339": {
@@ -4554,15 +4812,15 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "795087455018942468": {
-        "wins": 0,
-        "losses": 2
+        "wins": 2,
+        "losses": 4
       },
       "1190052094204448891": {
         "wins": 2,
         "losses": 0
       },
       "811682515014254623": {
-        "wins": 5,
+        "wins": 6,
         "losses": 1
       },
       "948647885380141086": {
@@ -4570,7 +4828,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1131590728447971409": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0
       },
       "1333609219005350039": {
@@ -4602,7 +4860,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1452226277896486926": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "1356080842010525749": {
@@ -4610,18 +4868,38 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1414768997852778496": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "536681523244433418": {
         "wins": 3,
         "losses": 0
+      },
+      "1319828319449124914": {
+        "wins": 1,
+        "losses": 0
+      },
+      "533815600003285012": {
+        "wins": 3,
+        "losses": 0
+      },
+      "669945802084319232": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1510012033310134412": {
+        "wins": 1,
+        "losses": 0
+      },
+      "630060438633054238": {
+        "wins": 1,
+        "losses": 0
       }
     }
   },
   "1303249614362640455": {
-    "total_games": 177,
-    "wins": 60,
+    "total_games": 178,
+    "wins": 61,
     "losses": 100,
     "draws": 13,
     "forfeits": 35,
@@ -4693,7 +4971,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "village_116": {
-        "wins": 8,
+        "wins": 9,
         "losses": 12,
         "draws": 1,
         "times": [
@@ -4734,7 +5012,7 @@ window.SEASON0_STATS = {
         ]
       }
     },
-    "games_since_reset": 152,
+    "games_since_reset": 153,
     "peak_elo": 1079,
     "completion_times": [
       633,
@@ -4791,7 +5069,7 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "1383851800901451839": {
-        "wins": 11,
+        "wins": 12,
         "losses": 4
       },
       "366219142799556620": {
@@ -5126,6 +5404,30 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
     "games_since_reset": 1,
@@ -5369,9 +5671,9 @@ window.SEASON0_STATS = {
     }
   },
   "375037139731087370": {
-    "total_games": 38,
-    "wins": 23,
-    "losses": 12,
+    "total_games": 60,
+    "wins": 40,
+    "losses": 17,
     "draws": 2,
     "forfeits": 0,
     "by_mode": {
@@ -5400,16 +5702,33 @@ window.SEASON0_STATS = {
         ]
       },
       "bastion_118": {
-        "wins": 0,
+        "wins": 6,
         "losses": 0,
         "draws": 0,
-        "times": []
+        "times": [
+          492,
+          525,
+          571,
+          576,
+          571,
+          626
+        ]
       },
       "warped_forest_118": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 9,
+        "losses": 5,
         "draws": 0,
-        "times": []
+        "times": [
+          602,
+          771,
+          945,
+          579,
+          1021,
+          869,
+          701,
+          811,
+          564
+        ]
       },
       "village_116": {
         "wins": 0,
@@ -5424,10 +5743,13 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 0,
+        "wins": 2,
         "losses": 0,
         "draws": 0,
-        "times": []
+        "times": [
+          872,
+          674
+        ]
       },
       "buried_treasure_118": {
         "wins": 0,
@@ -5442,8 +5764,8 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 30,
-    "peak_elo": 1467,
+    "games_since_reset": 52,
+    "peak_elo": 1516,
     "completion_times": [
       636,
       894,
@@ -5454,7 +5776,24 @@ window.SEASON0_STATS = {
       585,
       648,
       462,
-      616
+      616,
+      602,
+      872,
+      771,
+      945,
+      579,
+      492,
+      1021,
+      525,
+      869,
+      571,
+      674,
+      576,
+      571,
+      701,
+      811,
+      626,
+      564
     ],
     "head_to_head": {
       "366219142799556620": {
@@ -5478,11 +5817,11 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "811682515014254623": {
-        "wins": 1,
-        "losses": 0
+        "wins": 5,
+        "losses": 1
       },
       "1062411728849223861": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "679080865942470696": {
@@ -5494,6 +5833,42 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "663349775541993474": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1264027393673138242": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1164191742816440340": {
+        "wins": 2,
+        "losses": 0
+      },
+      "333043405259014145": {
+        "wins": 4,
+        "losses": 0
+      },
+      "1415098611888296059": {
+        "wins": 2,
+        "losses": 2
+      },
+      "1452226277896486926": {
+        "wins": 1,
+        "losses": 0
+      },
+      "936633999642746970": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1119297487426027581": {
+        "wins": 0,
+        "losses": 1
+      },
+      "722828551929331732": {
+        "wins": 0,
+        "losses": 1
+      },
+      "753751964835119115": {
         "wins": 1,
         "losses": 0
       }
@@ -5749,9 +6124,9 @@ window.SEASON0_STATS = {
     }
   },
   "973672722758500414": {
-    "total_games": 167,
-    "wins": 103,
-    "losses": 59,
+    "total_games": 177,
+    "wins": 110,
+    "losses": 62,
     "draws": 5,
     "forfeits": 6,
     "by_mode": {
@@ -5774,8 +6149,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
-        "wins": 102,
-        "losses": 58,
+        "wins": 109,
+        "losses": 61,
         "draws": 5,
         "times": [
           870,
@@ -5858,7 +6233,14 @@ window.SEASON0_STATS = {
           870,
           877,
           810,
-          884
+          884,
+          1453,
+          1040,
+          935,
+          874,
+          926,
+          1061,
+          1190
         ]
       },
       "village_116": {
@@ -5894,7 +6276,7 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 161,
+    "games_since_reset": 171,
     "peak_elo": 1572,
     "completion_times": [
       870,
@@ -5978,7 +6360,14 @@ window.SEASON0_STATS = {
       870,
       877,
       810,
-      884
+      884,
+      1453,
+      1040,
+      935,
+      874,
+      926,
+      1061,
+      1190
     ],
     "head_to_head": {
       "609484666356891650": {
@@ -5994,12 +6383,12 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "978126878370054174": {
-        "wins": 6,
+        "wins": 7,
         "losses": 5
       },
       "1436409282517139477": {
         "wins": 3,
-        "losses": 2
+        "losses": 3
       },
       "724668431793651742": {
         "wins": 5,
@@ -6062,7 +6451,7 @@ window.SEASON0_STATS = {
         "losses": 3
       },
       "1415098611888296059": {
-        "wins": 1,
+        "wins": 3,
         "losses": 0
       },
       "575014590371463178": {
@@ -6074,7 +6463,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "919384576382623744": {
-        "wins": 11,
+        "wins": 12,
         "losses": 1
       },
       "943171429350907934": {
@@ -6127,7 +6516,7 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "1152739756476735498": {
         "wins": 1,
@@ -6136,14 +6525,26 @@ window.SEASON0_STATS = {
       "936633999642746970": {
         "wins": 1,
         "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1398055914925326356": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1062411728849223861": {
+        "wins": 2,
+        "losses": 0
       }
     }
   },
   "1119297487426027581": {
-    "total_games": 77,
-    "wins": 49,
-    "losses": 27,
-    "draws": 1,
+    "total_games": 91,
+    "wins": 59,
+    "losses": 30,
+    "draws": 2,
     "forfeits": 1,
     "by_mode": {
       "stronghold_116": {
@@ -6172,9 +6573,9 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 37,
-        "losses": 16,
-        "draws": 1,
+        "wins": 47,
+        "losses": 19,
+        "draws": 2,
         "times": [
           1169,
           760,
@@ -6202,7 +6603,17 @@ window.SEASON0_STATS = {
           710,
           525,
           890,
-          987
+          987,
+          787,
+          803,
+          648,
+          763,
+          728,
+          746,
+          562,
+          591,
+          660,
+          719
         ]
       },
       "village_116": {
@@ -6239,8 +6650,8 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 62,
-    "peak_elo": 1503,
+    "games_since_reset": 76,
+    "peak_elo": 1558,
     "completion_times": [
       949,
       1169,
@@ -6276,7 +6687,17 @@ window.SEASON0_STATS = {
       710,
       525,
       890,
-      987
+      987,
+      787,
+      803,
+      648,
+      763,
+      728,
+      746,
+      562,
+      591,
+      660,
+      719
     ],
     "head_to_head": {
       "753751964835119115": {
@@ -6288,7 +6709,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "722828551929331732": {
-        "wins": 2,
+        "wins": 3,
         "losses": 1
       },
       "748550850481225728": {
@@ -6296,8 +6717,8 @@ window.SEASON0_STATS = {
         "losses": 3
       },
       "987853918631514153": {
-        "wins": 6,
-        "losses": 2
+        "wins": 9,
+        "losses": 4
       },
       "1102987777332748339": {
         "wins": 2,
@@ -6352,14 +6773,26 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "1415098611888296059": {
-        "wins": 4,
-        "losses": 1
+        "wins": 5,
+        "losses": 2
       },
       "1190052094204448891": {
         "wins": 1,
         "losses": 0
       },
       "333043405259014145": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1398055914925326356": {
+        "wins": 3,
+        "losses": 0
+      },
+      "375037139731087370": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1436409282517139477": {
         "wins": 1,
         "losses": 0
       }
@@ -6629,6 +7062,36 @@ window.SEASON0_STATS = {
         "losses": 2,
         "draws": 0,
         "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
     "games_since_reset": 0,
@@ -6646,31 +7109,68 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
-    "games_since_reset": 0
+    "games_since_reset": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {}
   },
   "811682515014254623": {
-    "total_games": 207,
-    "wins": 66,
-    "losses": 129,
-    "draws": 8,
+    "total_games": 225,
+    "wins": 76,
+    "losses": 136,
+    "draws": 9,
     "forfeits": 10,
     "by_mode": {
       "stronghold_116": {
@@ -6697,9 +7197,9 @@ window.SEASON0_STATS = {
         ]
       },
       "bastion_118": {
-        "wins": 17,
-        "losses": 6,
-        "draws": 2,
+        "wins": 20,
+        "losses": 8,
+        "draws": 3,
         "times": [
           1088,
           852,
@@ -6715,12 +7215,14 @@ window.SEASON0_STATS = {
           752,
           914,
           1044,
-          1138
+          1138,
+          883,
+          819
         ]
       },
       "warped_forest_118": {
-        "wins": 16,
-        "losses": 16,
+        "wins": 21,
+        "losses": 20,
         "draws": 1,
         "times": [
           1137,
@@ -6734,7 +7236,10 @@ window.SEASON0_STATS = {
           765,
           682,
           894,
-          1021
+          1021,
+          885,
+          887,
+          805
         ]
       },
       "village_116": {
@@ -6755,8 +7260,8 @@ window.SEASON0_STATS = {
         ]
       },
       "ruined_portal_118": {
-        "wins": 12,
-        "losses": 11,
+        "wins": 14,
+        "losses": 12,
         "draws": 1,
         "times": [
           1164,
@@ -6765,7 +7270,8 @@ window.SEASON0_STATS = {
           770,
           854,
           956,
-          983
+          983,
+          840
         ]
       },
       "buried_treasure_118": {
@@ -6781,8 +7287,8 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 184,
-    "peak_elo": 1106,
+    "games_since_reset": 202,
+    "peak_elo": 1156,
     "completion_times": [
       969,
       1219,
@@ -6829,7 +7335,13 @@ window.SEASON0_STATS = {
       854,
       1138,
       956,
-      983
+      983,
+      883,
+      885,
+      840,
+      819,
+      887,
+      805
     ],
     "head_to_head": {
       "416967458075836427": {
@@ -6837,8 +7349,8 @@ window.SEASON0_STATS = {
         "losses": 5
       },
       "375037139731087370": {
-        "wins": 0,
-        "losses": 1
+        "wins": 1,
+        "losses": 5
       },
       "575014590371463178": {
         "wins": 0,
@@ -6897,7 +7409,7 @@ window.SEASON0_STATS = {
         "losses": 4
       },
       "1062411728849223861": {
-        "wins": 3,
+        "wins": 4,
         "losses": 2
       },
       "752822006516547616": {
@@ -6961,11 +7473,11 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "919384576382623744": {
-        "wins": 5,
+        "wins": 7,
         "losses": 0
       },
       "1131590728447971409": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0
       },
       "1453993107753271310": {
@@ -6994,7 +7506,7 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 1,
-        "losses": 5
+        "losses": 6
       },
       "1392409372465954876": {
         "wins": 1,
@@ -7013,7 +7525,7 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "852447975116505118": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "1356080842010525749": {
@@ -7025,8 +7537,20 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "1319828319449124914": {
+        "wins": 2,
+        "losses": 0
+      },
+      "1512618516170281016": {
         "wins": 1,
         "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 2,
+        "losses": 0
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 2
       }
     }
   },
@@ -7040,25 +7564,62 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 1,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
-    "games_since_reset": 0
+    "games_since_reset": 0,
+    "peak_elo": 929,
+    "completion_times": [],
+    "head_to_head": {}
   },
   "416967458075836427": {
     "total_games": 111,
@@ -8114,57 +8675,6 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
-      }
-    },
-    "games_since_reset": 6,
-    "peak_elo": 1057,
-    "completion_times": [],
-    "head_to_head": {}
-  },
-  "630060438633054238": {
-    "total_games": 29,
-    "wins": 12,
-    "losses": 15,
-    "draws": 1,
-    "forfeits": 6,
-    "by_mode": {
-      "stronghold_116": {
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "times": []
-      },
-      "ruined_portal_116": {
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "times": []
-      },
-      "bastion_118": {
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "times": []
-      },
-      "warped_forest_118": {
-        "wins": 12,
-        "losses": 15,
-        "draws": 1,
-        "times": [
-          1332,
-          1825,
-          1261,
-          930,
-          1056,
-          1326,
-          1316
-        ]
-      },
-      "village_116": {
-        "wins": 0,
-        "losses": 0,
-        "draws": 0,
-        "times": []
       },
       "desert_temple_116": {
         "wins": 0,
@@ -8191,7 +8701,82 @@ window.SEASON0_STATS = {
         "times": []
       }
     },
-    "games_since_reset": 25,
+    "games_since_reset": 6,
+    "peak_elo": 1057,
+    "completion_times": [],
+    "head_to_head": {}
+  },
+  "630060438633054238": {
+    "total_games": 31,
+    "wins": 12,
+    "losses": 17,
+    "draws": 1,
+    "forfeits": 7,
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 12,
+        "losses": 16,
+        "draws": 1,
+        "times": [
+          1332,
+          1825,
+          1261,
+          930,
+          1056,
+          1326,
+          1316
+        ]
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    },
+    "games_since_reset": 27,
     "peak_elo": 1116,
     "completion_times": [
       1332,
@@ -8253,6 +8838,14 @@ window.SEASON0_STATS = {
       },
       "333043405259014145": {
         "wins": 1,
+        "losses": 1
+      },
+      "1062411728849223861": {
+        "wins": 0,
+        "losses": 1
+      },
+      "987853918631514153": {
+        "wins": 0,
         "losses": 1
       }
     }
@@ -8389,6 +8982,36 @@ window.SEASON0_STATS = {
         "losses": 1,
         "draws": 0,
         "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
     "completion_times": [],
@@ -8411,24 +9034,60 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
-    }
+    },
+    "completion_times": [],
+    "head_to_head": {}
   },
   "862192514283208734": {
     "total_games": 12,
@@ -8534,6 +9193,36 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     },
     "completion_times": [
@@ -8557,17 +9246,17 @@ window.SEASON0_STATS = {
     }
   },
   "1383851800901451839": {
-    "total_games": 160,
-    "games_since_reset": 158,
-    "wins": 44,
-    "losses": 95,
+    "total_games": 169,
+    "games_since_reset": 167,
+    "wins": 49,
+    "losses": 99,
     "draws": 21,
-    "forfeits": 3,
+    "forfeits": 6,
     "peak_elo": 1000,
     "by_mode": {
       "stronghold_116": {
-        "wins": 12,
-        "losses": 28,
+        "wins": 13,
+        "losses": 29,
         "draws": 5,
         "times": [
           573,
@@ -8576,12 +9265,13 @@ window.SEASON0_STATS = {
           969,
           500,
           627,
-          719
+          719,
+          709
         ]
       },
       "ruined_portal_116": {
         "wins": 10,
-        "losses": 26,
+        "losses": 27,
         "draws": 4,
         "times": [
           619,
@@ -8612,8 +9302,8 @@ window.SEASON0_STATS = {
         ]
       },
       "village_116": {
-        "wins": 5,
-        "losses": 10,
+        "wins": 6,
+        "losses": 12,
         "draws": 2,
         "times": [
           632,
@@ -8623,14 +9313,15 @@ window.SEASON0_STATS = {
         ]
       },
       "desert_temple_116": {
-        "wins": 7,
+        "wins": 8,
         "losses": 15,
         "draws": 3,
         "times": [
           1343,
           1085,
           685,
-          1531
+          1531,
+          1148
         ]
       },
       "ruined_portal_118": {
@@ -8646,13 +9337,15 @@ window.SEASON0_STATS = {
         "times": []
       },
       "shipwreck_116": {
-        "wins": 5,
+        "wins": 7,
         "losses": 4,
         "draws": 4,
         "times": [
           961,
           1042,
-          1008
+          1008,
+          1142,
+          953
         ]
       }
     },
@@ -8685,12 +9378,16 @@ window.SEASON0_STATS = {
       719,
       1008,
       903,
-      553
+      553,
+      1148,
+      1142,
+      709,
+      953
     ],
     "head_to_head": {
       "1303249614362640455": {
         "wins": 4,
-        "losses": 11
+        "losses": 12
       },
       "1169016438359597206": {
         "wins": 0,
@@ -8746,7 +9443,7 @@ window.SEASON0_STATS = {
       },
       "768447732137852959": {
         "wins": 6,
-        "losses": 4
+        "losses": 5
       },
       "1257541162777182322": {
         "wins": 1,
@@ -8805,8 +9502,8 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "1414768997852778496": {
-        "wins": 9,
-        "losses": 0
+        "wins": 14,
+        "losses": 2
       },
       "1102987777332748339": {
         "wins": 0,
@@ -8834,24 +9531,60 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 1,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
-    }
+    },
+    "completion_times": [],
+    "head_to_head": {}
   },
   "1331519370609954918": {
     "total_games": 4,
@@ -8883,6 +9616,36 @@ window.SEASON0_STATS = {
       "warped_forest_118": {
         "wins": 0,
         "losses": 4,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
         "draws": 0,
         "times": []
       }
@@ -9092,24 +9855,60 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
-    }
+    },
+    "completion_times": [],
+    "head_to_head": {}
   },
   "1098013614679543909": {
     "total_games": 0,
@@ -9123,24 +9922,60 @@ window.SEASON0_STATS = {
       "stronghold_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "ruined_portal_116": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "bastion_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
       },
       "warped_forest_118": {
         "wins": 0,
         "losses": 0,
-        "draws": 0
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
-    }
+    },
+    "completion_times": [],
+    "head_to_head": {}
   },
   "1294578223820181556": {
     "total_games": 1,
@@ -9210,12 +10045,12 @@ window.SEASON0_STATS = {
     "head_to_head": {}
   },
   "724668431793651742": {
-    "total_games": 38,
-    "games_since_reset": 38,
-    "wins": 6,
-    "losses": 31,
+    "total_games": 41,
+    "games_since_reset": 41,
+    "wins": 7,
+    "losses": 33,
     "draws": 1,
-    "forfeits": 3,
+    "forfeits": 4,
     "peak_elo": 1000,
     "by_mode": {
       "stronghold_116": {
@@ -9240,8 +10075,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 3,
-        "losses": 23,
+        "wins": 4,
+        "losses": 25,
         "draws": 1,
         "times": [
           1870
@@ -9358,14 +10193,26 @@ window.SEASON0_STATS = {
       "1062411728849223861": {
         "wins": 0,
         "losses": 2
+      },
+      "1319828319449124914": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1204668604952608789": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1131590728447971409": {
+        "wins": 0,
+        "losses": 1
       }
     }
   },
   "663349775541993474": {
-    "total_games": 21,
-    "games_since_reset": 21,
+    "total_games": 22,
+    "games_since_reset": 22,
     "wins": 1,
-    "losses": 18,
+    "losses": 19,
     "draws": 2,
     "forfeits": 2,
     "peak_elo": 1000,
@@ -9396,7 +10243,7 @@ window.SEASON0_STATS = {
       },
       "village_116": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "times": []
       },
@@ -9464,6 +10311,10 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "1102987777332748339": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1514773775885926501": {
         "wins": 0,
         "losses": 1
       }
@@ -9604,10 +10455,10 @@ window.SEASON0_STATS = {
     "head_to_head": {}
   },
   "1006889990405509120": {
-    "total_games": 25,
-    "games_since_reset": 25,
-    "wins": 17,
-    "losses": 8,
+    "total_games": 33,
+    "games_since_reset": 33,
+    "wins": 21,
+    "losses": 12,
     "draws": 0,
     "forfeits": 0,
     "peak_elo": 1311,
@@ -9625,12 +10476,15 @@ window.SEASON0_STATS = {
       683,
       875,
       745,
-      575
+      575,
+      998,
+      1149,
+      807
     ],
     "head_to_head": {
       "753751964835119115": {
         "wins": 4,
-        "losses": 6
+        "losses": 7
       },
       "612907640825184256": {
         "wins": 0,
@@ -9659,6 +10513,26 @@ window.SEASON0_STATS = {
       "238046177256407040": {
         "wins": 2,
         "losses": 0
+      },
+      "1347567465395392512": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1414768997852778496": {
+        "wins": 1,
+        "losses": 0
+      },
+      "333043405259014145": {
+        "wins": 1,
+        "losses": 1
+      },
+      "1415098611888296059": {
+        "wins": 1,
+        "losses": 1
+      },
+      "795087455018942468": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -9676,7 +10550,7 @@ window.SEASON0_STATS = {
       },
       "bastion_118": {
         "wins": 3,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "times": [
           781,
@@ -9685,8 +10559,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 9,
-        "losses": 3,
+        "wins": 10,
+        "losses": 4,
         "draws": 0,
         "times": [
           1028,
@@ -9712,13 +10586,16 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 5,
-        "losses": 2,
+        "wins": 8,
+        "losses": 4,
         "draws": 0,
         "times": [
           1009,
           683,
-          875
+          875,
+          998,
+          1149,
+          807
         ]
       },
       "buried_treasure_118": {
@@ -9736,10 +10613,10 @@ window.SEASON0_STATS = {
     }
   },
   "1062411728849223861": {
-    "total_games": 63,
-    "games_since_reset": 63,
-    "wins": 24,
-    "losses": 38,
+    "total_games": 80,
+    "games_since_reset": 80,
+    "wins": 29,
+    "losses": 50,
     "draws": 1,
     "forfeits": 1,
     "peak_elo": 1000,
@@ -9760,12 +10637,14 @@ window.SEASON0_STATS = {
       906,
       664,
       2129,
-      674
+      674,
+      787,
+      745
     ],
     "head_to_head": {
       "375037139731087370": {
         "wins": 0,
-        "losses": 1
+        "losses": 2
       },
       "978126878370054174": {
         "wins": 0,
@@ -9809,7 +10688,7 @@ window.SEASON0_STATS = {
       },
       "811682515014254623": {
         "wins": 2,
-        "losses": 3
+        "losses": 4
       },
       "1062411728849223861": {
         "wins": 1,
@@ -9821,7 +10700,7 @@ window.SEASON0_STATS = {
       },
       "722828551929331732": {
         "wins": 0,
-        "losses": 1
+        "losses": 4
       },
       "1102987777332748339": {
         "wins": 2,
@@ -9849,11 +10728,11 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 3
+        "losses": 4
       },
       "1415098611888296059": {
         "wins": 0,
-        "losses": 1
+        "losses": 3
       },
       "333043405259014145": {
         "wins": 1,
@@ -9890,6 +10769,34 @@ window.SEASON0_STATS = {
       "1356080842010525749": {
         "wins": 0,
         "losses": 1
+      },
+      "1319828319449124914": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1131590728447971409": {
+        "wins": 1,
+        "losses": 1
+      },
+      "973672722758500414": {
+        "wins": 0,
+        "losses": 2
+      },
+      "1346019420568289300": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1355569947853586634": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1320885872660578367": {
+        "wins": 1,
+        "losses": 0
+      },
+      "630060438633054238": {
+        "wins": 1,
+        "losses": 0
       }
     },
     "by_mode": {
@@ -9911,7 +10818,7 @@ window.SEASON0_STATS = {
       },
       "bastion_118": {
         "wins": 3,
-        "losses": 8,
+        "losses": 9,
         "draws": 0,
         "times": [
           838,
@@ -9920,8 +10827,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 9,
-        "losses": 5,
+        "wins": 10,
+        "losses": 16,
         "draws": 0,
         "times": [
           822,
@@ -9946,7 +10853,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 8,
+        "wins": 12,
         "losses": 2,
         "draws": 0,
         "times": [
@@ -9954,7 +10861,9 @@ window.SEASON0_STATS = {
           1173,
           1212,
           906,
-          2129
+          2129,
+          787,
+          745
         ]
       },
       "buried_treasure_118": {
@@ -10178,6 +11087,36 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -10419,14 +11358,44 @@ window.SEASON0_STATS = {
         "losses": 2,
         "draws": 0,
         "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "1102987777332748339": {
-    "total_games": 144,
-    "games_since_reset": 144,
-    "wins": 40,
-    "losses": 89,
+    "total_games": 146,
+    "games_since_reset": 146,
+    "wins": 41,
+    "losses": 90,
     "draws": 15,
     "forfeits": 30,
     "peak_elo": 1000,
@@ -10536,7 +11505,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 4
+        "losses": 5
       },
       "943171429350907934": {
         "wins": 1,
@@ -10621,6 +11590,10 @@ window.SEASON0_STATS = {
       "663349775541993474": {
         "wins": 1,
         "losses": 0
+      },
+      "1513255074346832111": {
+        "wins": 1,
+        "losses": 0
       }
     },
     "by_mode": {
@@ -10657,7 +11630,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 12,
-        "losses": 38,
+        "losses": 39,
         "draws": 7,
         "times": [
           906,
@@ -10687,7 +11660,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 7,
+        "wins": 8,
         "losses": 19,
         "draws": 2,
         "times": [
@@ -10744,6 +11717,36 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -10808,6 +11811,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -10946,6 +11961,36 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -11351,14 +12396,38 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "852447975116505118": {
-    "total_games": 16,
-    "games_since_reset": 16,
+    "total_games": 17,
+    "games_since_reset": 17,
     "wins": 3,
-    "losses": 10,
+    "losses": 11,
     "draws": 3,
     "forfeits": 1,
     "peak_elo": 1000,
@@ -11392,7 +12461,7 @@ window.SEASON0_STATS = {
       },
       "811682515014254623": {
         "wins": 0,
-        "losses": 1
+        "losses": 2
       }
     },
     "by_mode": {
@@ -11422,7 +12491,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 1,
-        "losses": 7,
+        "losses": 8,
         "draws": 0,
         "times": [
           1634
@@ -11499,6 +12568,30 @@ window.SEASON0_STATS = {
         "losses": 1,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -11542,17 +12635,41 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "795087455018942468": {
-    "total_games": 109,
-    "games_since_reset": 109,
-    "wins": 93,
-    "losses": 13,
+    "total_games": 143,
+    "games_since_reset": 143,
+    "wins": 123,
+    "losses": 17,
     "draws": 3,
-    "forfeits": 0,
-    "peak_elo": 1799,
+    "forfeits": 1,
+    "peak_elo": 1972,
     "completion_times": [
       1577,
       1455,
@@ -11634,11 +12751,35 @@ window.SEASON0_STATS = {
       793,
       652,
       835,
-      954
+      954,
+      850,
+      868,
+      586,
+      781,
+      804,
+      821,
+      815,
+      801,
+      1122,
+      812,
+      495,
+      762,
+      1204,
+      669,
+      679,
+      724,
+      698,
+      843,
+      758,
+      877,
+      743,
+      830,
+      684,
+      574
     ],
     "head_to_head": {
       "722828551929331732": {
-        "wins": 2,
+        "wins": 4,
         "losses": 5
       },
       "1135014996946985000": {
@@ -11690,11 +12831,11 @@ window.SEASON0_STATS = {
         "losses": 2
       },
       "1452226277896486926": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0
       },
       "753751964835119115": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1
       },
       "1417065431650537563": {
@@ -11722,7 +12863,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "919384576382623744": {
-        "wins": 13,
+        "wins": 18,
         "losses": 0
       },
       "1252670589374562356": {
@@ -11730,11 +12871,11 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1102987777332748339": {
-        "wins": 4,
+        "wins": 5,
         "losses": 0
       },
       "936633999642746970": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0
       },
       "238046177256407040": {
@@ -11742,7 +12883,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "533815600003285012": {
-        "wins": 2,
+        "wins": 3,
         "losses": 0
       },
       "1453993107753271310": {
@@ -11762,16 +12903,16 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1131590728447971409": {
-        "wins": 5,
+        "wins": 6,
         "losses": 0
       },
       "1062411728849223861": {
-        "wins": 3,
+        "wins": 4,
         "losses": 0
       },
       "1415098611888296059": {
-        "wins": 1,
-        "losses": 0
+        "wins": 8,
+        "losses": 2
       },
       "1503386826583441479": {
         "wins": 2,
@@ -11786,8 +12927,8 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "987853918631514153": {
-        "wins": 2,
-        "losses": 0
+        "wins": 4,
+        "losses": 2
       },
       "811682515014254623": {
         "wins": 1,
@@ -11798,6 +12939,26 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1414768997852778496": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1164191742816440340": {
+        "wins": 3,
+        "losses": 0
+      },
+      "1319828319449124914": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1006889990405509120": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1495819502502543640": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1286753533877682292": {
         "wins": 1,
         "losses": 0
       }
@@ -11824,7 +12985,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 30,
+        "wins": 38,
         "losses": 4,
         "draws": 2,
         "times": [
@@ -11853,12 +13014,18 @@ window.SEASON0_STATS = {
           540,
           380,
           768,
-          793
+          793,
+          850,
+          868,
+          586,
+          495,
+          724,
+          743
         ]
       },
       "warped_forest_118": {
-        "wins": 32,
-        "losses": 7,
+        "wins": 51,
+        "losses": 11,
         "draws": 0,
         "times": [
           1577,
@@ -11888,7 +13055,23 @@ window.SEASON0_STATS = {
           722,
           861,
           652,
-          835
+          835,
+          781,
+          821,
+          815,
+          801,
+          812,
+          762,
+          1204,
+          669,
+          679,
+          698,
+          843,
+          758,
+          877,
+          830,
+          684,
+          574
         ]
       },
       "desert_temple_116": {
@@ -11898,7 +13081,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 30,
+        "wins": 33,
         "losses": 1,
         "draws": 1,
         "times": [
@@ -11927,7 +13110,9 @@ window.SEASON0_STATS = {
           722,
           601,
           792,
-          954
+          954,
+          804,
+          1122
         ]
       },
       "buried_treasure_118": {
@@ -12106,6 +13291,30 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -12152,6 +13361,30 @@ window.SEASON0_STATS = {
       "warped_forest_118": {
         "wins": 0,
         "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
         "draws": 0,
         "times": []
       }
@@ -12467,6 +13700,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -12590,6 +13841,30 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -12629,6 +13904,30 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -12676,6 +13975,30 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -12715,6 +14038,30 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -12777,6 +14124,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -12816,6 +14181,30 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -12864,6 +14253,30 @@ window.SEASON0_STATS = {
         "times": []
       },
       "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -13080,6 +14493,24 @@ window.SEASON0_STATS = {
         "wins": 1,
         "losses": 3,
         "draws": 1,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
         "times": []
       }
     }
@@ -13539,6 +14970,24 @@ window.SEASON0_STATS = {
         "losses": 2,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -13683,6 +15132,24 @@ window.SEASON0_STATS = {
         "times": []
       },
       "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -13956,6 +15423,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -14005,6 +15490,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -14050,6 +15553,24 @@ window.SEASON0_STATS = {
         "times": []
       },
       "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -14377,6 +15898,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -14457,12 +15996,12 @@ window.SEASON0_STATS = {
     }
   },
   "1452226277896486926": {
-    "total_games": 200,
-    "games_since_reset": 200,
-    "wins": 106,
-    "losses": 81,
+    "total_games": 212,
+    "games_since_reset": 212,
+    "wins": 111,
+    "losses": 88,
     "draws": 13,
-    "forfeits": 6,
+    "forfeits": 8,
     "peak_elo": 1292,
     "completion_times": [
       878,
@@ -14548,7 +16087,11 @@ window.SEASON0_STATS = {
       1418,
       982,
       684,
-      717
+      717,
+      783,
+      1210,
+      888,
+      1129
     ],
     "head_to_head": {
       "612907640825184256": {
@@ -14572,7 +16115,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "1453993107753271310": {
-        "wins": 24,
+        "wins": 25,
         "losses": 1
       },
       "978126878370054174": {
@@ -14633,7 +16176,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "1222257629020164186": {
         "wins": 0,
@@ -14660,7 +16203,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "919384576382623744": {
-        "wins": 12,
+        "wins": 13,
         "losses": 6
       },
       "1046014558847914036": {
@@ -14700,8 +16243,8 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "533815600003285012": {
-        "wins": 2,
-        "losses": 3
+        "wins": 3,
+        "losses": 4
       },
       "1439248763611906078": {
         "wins": 1,
@@ -14741,15 +16284,31 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 0,
-        "losses": 1
+        "losses": 2
       },
       "1319828319449124914": {
-        "wins": 1,
+        "wins": 2,
         "losses": 1
       },
       "1371434730091974767": {
         "wins": 1,
         "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 2
+      },
+      "1204668604952608789": {
+        "wins": 1,
+        "losses": 0
+      },
+      "375037139731087370": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -14772,8 +16331,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 43,
-        "losses": 19,
+        "wins": 44,
+        "losses": 21,
         "draws": 4,
         "times": [
           878,
@@ -14814,8 +16373,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 36,
-        "losses": 41,
+        "wins": 39,
+        "losses": 45,
         "draws": 4,
         "times": [
           1322,
@@ -14844,7 +16403,10 @@ window.SEASON0_STATS = {
           865,
           990,
           1167,
-          1418
+          1418,
+          783,
+          888,
+          1129
         ]
       },
       "desert_temple_116": {
@@ -14854,8 +16416,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 27,
-        "losses": 20,
+        "wins": 28,
+        "losses": 21,
         "draws": 5,
         "times": [
           1746,
@@ -14879,7 +16441,8 @@ window.SEASON0_STATS = {
           884,
           911,
           682,
-          982
+          982,
+          1210
         ]
       },
       "buried_treasure_118": {
@@ -14942,6 +16505,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -14991,15 +16572,33 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "1453993107753271310": {
-    "total_games": 183,
-    "games_since_reset": 183,
+    "total_games": 186,
+    "games_since_reset": 186,
     "wins": 32,
-    "losses": 113,
-    "draws": 38,
+    "losses": 115,
+    "draws": 39,
     "forfeits": 13,
     "peak_elo": 1050,
     "completion_times": [
@@ -15028,7 +16627,7 @@ window.SEASON0_STATS = {
       },
       "1452226277896486926": {
         "wins": 1,
-        "losses": 24
+        "losses": 25
       },
       "973672722758500414": {
         "wins": 0,
@@ -15169,6 +16768,10 @@ window.SEASON0_STATS = {
       "1319828319449124914": {
         "wins": 1,
         "losses": 0
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -15204,8 +16807,8 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 12,
-        "losses": 42,
-        "draws": 13,
+        "losses": 44,
+        "draws": 14,
         "times": [
           1098,
           1431,
@@ -15245,10 +16848,10 @@ window.SEASON0_STATS = {
     }
   },
   "1196174169524670574": {
-    "total_games": 39,
-    "games_since_reset": 39,
+    "total_games": 40,
+    "games_since_reset": 40,
     "wins": 4,
-    "losses": 32,
+    "losses": 33,
     "draws": 3,
     "forfeits": 6,
     "peak_elo": 1000,
@@ -15333,6 +16936,10 @@ window.SEASON0_STATS = {
       "238046177256407040": {
         "wins": 2,
         "losses": 1
+      },
+      "936633999642746970": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -15356,7 +16963,7 @@ window.SEASON0_STATS = {
       },
       "bastion_118": {
         "wins": 2,
-        "losses": 8,
+        "losses": 9,
         "draws": 2,
         "times": [
           1394
@@ -15444,6 +17051,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -15498,6 +17123,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -15543,6 +17186,24 @@ window.SEASON0_STATS = {
         "times": []
       },
       "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -15776,6 +17437,24 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -15897,14 +17576,32 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "1347567465395392512": {
-    "total_games": 190,
-    "games_since_reset": 190,
-    "wins": 73,
-    "losses": 104,
+    "total_games": 193,
+    "games_since_reset": 193,
+    "wins": 74,
+    "losses": 106,
     "draws": 13,
     "forfeits": 17,
     "peak_elo": 1121,
@@ -15962,7 +17659,8 @@ window.SEASON0_STATS = {
       864,
       831,
       835,
-      1412
+      1412,
+      890
     ],
     "head_to_head": {
       "973672722758500414": {
@@ -16140,6 +17838,14 @@ window.SEASON0_STATS = {
       "852447975116505118": {
         "wins": 1,
         "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 1,
+        "losses": 1
+      },
+      "1006889990405509120": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -16162,7 +17868,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 22,
+        "wins": 23,
         "losses": 24,
         "draws": 5,
         "times": [
@@ -16186,12 +17892,13 @@ window.SEASON0_STATS = {
           587,
           771,
           831,
-          1412
+          1412,
+          890
         ]
       },
       "warped_forest_118": {
         "wins": 22,
-        "losses": 47,
+        "losses": 48,
         "draws": 8,
         "times": [
           1356,
@@ -16215,7 +17922,7 @@ window.SEASON0_STATS = {
       },
       "ruined_portal_118": {
         "wins": 29,
-        "losses": 33,
+        "losses": 34,
         "draws": 0,
         "times": [
           730,
@@ -16308,16 +18015,28 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "919384576382623744": {
-    "total_games": 351,
-    "games_since_reset": 351,
-    "wins": 120,
-    "losses": 209,
+    "total_games": 369,
+    "games_since_reset": 369,
+    "wins": 123,
+    "losses": 224,
     "draws": 22,
-    "forfeits": 53,
+    "forfeits": 58,
     "peak_elo": 1129,
     "completion_times": [
       1300,
@@ -16410,7 +18129,8 @@ window.SEASON0_STATS = {
       747,
       786,
       814,
-      628
+      628,
+      796
     ],
     "head_to_head": {
       "978126878370054174": {
@@ -16431,7 +18151,7 @@ window.SEASON0_STATS = {
       },
       "722828551929331732": {
         "wins": 2,
-        "losses": 20
+        "losses": 22
       },
       "860114717158539265": {
         "wins": 1,
@@ -16459,7 +18179,7 @@ window.SEASON0_STATS = {
       },
       "973672722758500414": {
         "wins": 1,
-        "losses": 11
+        "losses": 12
       },
       "753751964835119115": {
         "wins": 3,
@@ -16495,7 +18215,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 13
+        "losses": 18
       },
       "1288793247338205275": {
         "wins": 1,
@@ -16503,11 +18223,11 @@ window.SEASON0_STATS = {
       },
       "811682515014254623": {
         "wins": 0,
-        "losses": 5
+        "losses": 7
       },
       "1452226277896486926": {
         "wins": 6,
-        "losses": 12
+        "losses": 13
       },
       "1006889990405509120": {
         "wins": 0,
@@ -16623,7 +18343,7 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 0,
-        "losses": 8
+        "losses": 9
       },
       "1266991614858104944": {
         "wins": 1,
@@ -16648,6 +18368,30 @@ window.SEASON0_STATS = {
       "1414768997852778496": {
         "wins": 2,
         "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1319828319449124914": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1336218309544378572": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1320885872660578367": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1461488336467132527": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1436409282517139477": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -16670,8 +18414,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 37,
-        "losses": 61,
+        "wins": 38,
+        "losses": 66,
         "draws": 6,
         "times": [
           1300,
@@ -16703,8 +18447,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 41,
-        "losses": 94,
+        "wins": 42,
+        "losses": 101,
         "draws": 10,
         "times": [
           1894,
@@ -16751,8 +18495,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 42,
-        "losses": 54,
+        "wins": 43,
+        "losses": 57,
         "draws": 6,
         "times": [
           1145,
@@ -16784,7 +18528,8 @@ window.SEASON0_STATS = {
           724,
           854,
           913,
-          814
+          814,
+          796
         ]
       },
       "buried_treasure_118": {
@@ -16802,9 +18547,9 @@ window.SEASON0_STATS = {
     }
   },
   "860114717158539265": {
-    "total_games": 244,
-    "games_since_reset": 244,
-    "wins": 205,
+    "total_games": 248,
+    "games_since_reset": 248,
+    "wins": 209,
     "losses": 36,
     "draws": 3,
     "forfeits": 0,
@@ -16974,7 +18719,9 @@ window.SEASON0_STATS = {
       575,
       711,
       813,
-      666
+      666,
+      678,
+      592
     ],
     "head_to_head": {
       "978126878370054174": {
@@ -17122,7 +18869,7 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "753751964835119115": {
-        "wins": 5,
+        "wins": 6,
         "losses": 2
       },
       "1384646569407549603": {
@@ -17260,6 +19007,14 @@ window.SEASON0_STATS = {
       "1486538406614925334": {
         "wins": 1,
         "losses": 0
+      },
+      "1414768997852778496": {
+        "wins": 2,
+        "losses": 0
+      },
+      "1164191742816440340": {
+        "wins": 1,
+        "losses": 0
       }
     },
     "by_mode": {
@@ -17289,7 +19044,7 @@ window.SEASON0_STATS = {
         ]
       },
       "ruined_portal_116": {
-        "wins": 32,
+        "wins": 33,
         "losses": 4,
         "draws": 2,
         "times": [
@@ -17319,11 +19074,12 @@ window.SEASON0_STATS = {
           599,
           498,
           657,
-          575
+          575,
+          678
         ]
       },
       "village_116": {
-        "wins": 16,
+        "wins": 17,
         "losses": 2,
         "draws": 0,
         "times": [
@@ -17342,7 +19098,7 @@ window.SEASON0_STATS = {
         ]
       },
       "bastion_118": {
-        "wins": 25,
+        "wins": 26,
         "losses": 6,
         "draws": 0,
         "times": [
@@ -17368,11 +19124,12 @@ window.SEASON0_STATS = {
           621,
           681,
           705,
-          666
+          666,
+          592
         ]
       },
       "warped_forest_118": {
-        "wins": 46,
+        "wins": 47,
         "losses": 7,
         "draws": 0,
         "times": [
@@ -17621,6 +19378,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -17748,6 +19517,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -17808,6 +19589,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -17859,6 +19652,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -18232,6 +20037,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -18359,6 +20176,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -18419,6 +20248,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -18470,6 +20311,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -18688,6 +20541,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -18934,14 +20799,26 @@ window.SEASON0_STATS = {
         "losses": 1,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
   "669945802084319232": {
-    "total_games": 48,
-    "games_since_reset": 48,
+    "total_games": 50,
+    "games_since_reset": 50,
     "wins": 30,
-    "losses": 17,
+    "losses": 19,
     "draws": 1,
     "forfeits": 0,
     "peak_elo": 1368,
@@ -19026,7 +20903,7 @@ window.SEASON0_STATS = {
       },
       "722828551929331732": {
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "1131590728447971409": {
         "wins": 2,
@@ -19061,6 +20938,10 @@ window.SEASON0_STATS = {
         "losses": 0
       },
       "811682515014254623": {
+        "wins": 0,
+        "losses": 1
+      },
+      "987853918631514153": {
         "wins": 0,
         "losses": 1
       }
@@ -19104,7 +20985,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 10,
-        "losses": 10,
+        "losses": 12,
         "draws": 1,
         "times": [
           1242,
@@ -19285,6 +21166,18 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -19336,6 +21229,18 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -19799,6 +21704,12 @@ window.SEASON0_STATS = {
         "losses": 0,
         "draws": 0,
         "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
       }
     }
   },
@@ -19856,6 +21767,12 @@ window.SEASON0_STATS = {
         "times": []
       },
       "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
         "wins": 0,
         "losses": 0,
         "draws": 0,
@@ -23695,13 +25612,13 @@ window.SEASON0_STATS = {
     }
   },
   "333043405259014145": {
-    "total_games": 44,
-    "games_since_reset": 44,
-    "wins": 23,
-    "losses": 18,
+    "total_games": 53,
+    "games_since_reset": 53,
+    "wins": 24,
+    "losses": 26,
     "draws": 3,
     "forfeits": 2,
-    "peak_elo": 1067,
+    "peak_elo": 1093,
     "completion_times": [
       795,
       828,
@@ -23720,7 +25637,8 @@ window.SEASON0_STATS = {
       849,
       515,
       670,
-      860
+      860,
+      1013
     ],
     "head_to_head": {
       "919384576382623744": {
@@ -23769,7 +25687,7 @@ window.SEASON0_STATS = {
       },
       "1415098611888296059": {
         "wins": 0,
-        "losses": 1
+        "losses": 4
       },
       "1062411728849223861": {
         "wins": 3,
@@ -23790,6 +25708,14 @@ window.SEASON0_STATS = {
       "1119297487426027581": {
         "wins": 0,
         "losses": 1
+      },
+      "1006889990405509120": {
+        "wins": 1,
+        "losses": 1
+      },
+      "375037139731087370": {
+        "wins": 0,
+        "losses": 4
       }
     },
     "by_mode": {
@@ -23813,7 +25739,7 @@ window.SEASON0_STATS = {
       },
       "bastion_118": {
         "wins": 8,
-        "losses": 4,
+        "losses": 7,
         "draws": 0,
         "times": [
           795,
@@ -23827,7 +25753,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 8,
-        "losses": 7,
+        "losses": 11,
         "draws": 2,
         "times": [
           674,
@@ -23845,15 +25771,16 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 7,
-        "losses": 7,
+        "wins": 8,
+        "losses": 8,
         "draws": 1,
         "times": [
           828,
           972,
           639,
           515,
-          670
+          670,
+          1013
         ]
       },
       "buried_treasure_118": {
@@ -24828,12 +26755,12 @@ window.SEASON0_STATS = {
     }
   },
   "936633999642746970": {
-    "total_games": 127,
-    "games_since_reset": 127,
-    "wins": 22,
-    "losses": 84,
-    "draws": 21,
-    "forfeits": 10,
+    "total_games": 149,
+    "games_since_reset": 149,
+    "wins": 25,
+    "losses": 98,
+    "draws": 26,
+    "forfeits": 11,
     "peak_elo": 1000,
     "completion_times": [
       540,
@@ -24847,7 +26774,8 @@ window.SEASON0_STATS = {
       906,
       1145,
       943,
-      1066
+      1066,
+      1373
     ],
     "head_to_head": {
       "860114717158539265": {
@@ -24892,7 +26820,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 3
+        "losses": 4
       },
       "948647885380141086": {
         "wins": 0,
@@ -24924,7 +26852,7 @@ window.SEASON0_STATS = {
       },
       "533815600003285012": {
         "wins": 0,
-        "losses": 4
+        "losses": 6
       },
       "1346019420568289300": {
         "wins": 1,
@@ -24940,11 +26868,11 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "1131590728447971409": {
         "wins": 1,
-        "losses": 2
+        "losses": 4
       },
       "753751964835119115": {
         "wins": 0,
@@ -24976,6 +26904,30 @@ window.SEASON0_STATS = {
       },
       "1319828319449124914": {
         "wins": 0,
+        "losses": 2
+      },
+      "1513255074346832111": {
+        "wins": 1,
+        "losses": 0
+      },
+      "375037139731087370": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1196174169524670574": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 5
+      },
+      "1489016751692972183": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1436409282517139477": {
+        "wins": 0,
         "losses": 1
       }
     },
@@ -24999,18 +26951,19 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 5,
-        "losses": 31,
-        "draws": 7,
+        "wins": 6,
+        "losses": 34,
+        "draws": 9,
         "times": [
           540,
-          1066
+          1066,
+          1373
         ]
       },
       "warped_forest_118": {
-        "wins": 6,
-        "losses": 33,
-        "draws": 8,
+        "wins": 7,
+        "losses": 43,
+        "draws": 10,
         "times": [
           2772,
           925,
@@ -25024,9 +26977,9 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 11,
-        "losses": 20,
-        "draws": 6,
+        "wins": 12,
+        "losses": 21,
+        "draws": 7,
         "times": [
           1403,
           1099,
@@ -26166,17 +28119,19 @@ window.SEASON0_STATS = {
     }
   },
   "1398055914925326356": {
-    "total_games": 6,
-    "games_since_reset": 6,
-    "wins": 3,
-    "losses": 2,
+    "total_games": 12,
+    "games_since_reset": 12,
+    "wins": 5,
+    "losses": 6,
     "draws": 1,
     "forfeits": 0,
     "peak_elo": 1036,
     "completion_times": [
       1055,
       1055,
-      945
+      945,
+      934,
+      1558
     ],
     "head_to_head": {
       "1379627754852712468": {
@@ -26189,6 +28144,22 @@ window.SEASON0_STATS = {
       },
       "919384576382623744": {
         "wins": 2,
+        "losses": 0
+      },
+      "1119297487426027581": {
+        "wins": 0,
+        "losses": 3
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1278243102498230305": {
+        "wins": 1,
+        "losses": 0
+      },
+      "973672722758500414": {
+        "wins": 1,
         "losses": 0
       }
     },
@@ -26220,12 +28191,14 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 2,
-        "losses": 1,
+        "wins": 4,
+        "losses": 5,
         "draws": 1,
         "times": [
           1055,
-          1055
+          1055,
+          934,
+          1558
         ]
       },
       "desert_temple_116": {
@@ -27788,11 +29761,11 @@ window.SEASON0_STATS = {
     }
   },
   "1486538406614925334": {
-    "total_games": 29,
-    "games_since_reset": 29,
+    "total_games": 30,
+    "games_since_reset": 30,
     "wins": 12,
     "losses": 14,
-    "draws": 3,
+    "draws": 4,
     "forfeits": 2,
     "peak_elo": 1000,
     "completion_times": [
@@ -27894,7 +29867,7 @@ window.SEASON0_STATS = {
       "warped_forest_118": {
         "wins": 3,
         "losses": 7,
-        "draws": 1,
+        "draws": 2,
         "times": [
           1623,
           1221
@@ -27930,12 +29903,12 @@ window.SEASON0_STATS = {
     }
   },
   "1316399287592026162": {
-    "total_games": 3,
-    "games_since_reset": 3,
-    "wins": 1,
-    "losses": 2,
+    "total_games": 5,
+    "games_since_reset": 5,
+    "wins": 2,
+    "losses": 3,
     "draws": 0,
-    "forfeits": 2,
+    "forfeits": 3,
     "peak_elo": 1019,
     "completion_times": [],
     "head_to_head": {
@@ -27949,6 +29922,10 @@ window.SEASON0_STATS = {
       },
       "1346019420568289300": {
         "wins": 0,
+        "losses": 1
+      },
+      "1414768997852778496": {
+        "wins": 1,
         "losses": 1
       }
     },
@@ -27985,7 +29962,7 @@ window.SEASON0_STATS = {
       },
       "desert_temple_116": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "times": []
       },
@@ -28002,7 +29979,7 @@ window.SEASON0_STATS = {
         "times": []
       },
       "shipwreck_116": {
-        "wins": 0,
+        "wins": 1,
         "losses": 0,
         "draws": 0,
         "times": []
@@ -28216,10 +30193,10 @@ window.SEASON0_STATS = {
     }
   },
   "533815600003285012": {
-    "total_games": 63,
-    "games_since_reset": 63,
-    "wins": 27,
-    "losses": 25,
+    "total_games": 77,
+    "games_since_reset": 77,
+    "wins": 34,
+    "losses": 32,
     "draws": 11,
     "forfeits": 0,
     "peak_elo": 1122,
@@ -28246,7 +30223,12 @@ window.SEASON0_STATS = {
       1056,
       1182,
       1123,
-      1562
+      1562,
+      1415,
+      1179,
+      975,
+      816,
+      1444
     ],
     "head_to_head": {
       "860114717158539265": {
@@ -28258,8 +30240,8 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "1131590728447971409": {
-        "wins": 4,
-        "losses": 4
+        "wins": 5,
+        "losses": 5
       },
       "973672722758500414": {
         "wins": 0,
@@ -28274,15 +30256,15 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "1452226277896486926": {
-        "wins": 3,
-        "losses": 2
+        "wins": 4,
+        "losses": 3
       },
       "760141255963050055": {
         "wins": 0,
         "losses": 1
       },
       "936633999642746970": {
-        "wins": 4,
+        "wins": 6,
         "losses": 0
       },
       "1347567465395392512": {
@@ -28295,7 +30277,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "1102987777332748339": {
         "wins": 1,
@@ -28332,6 +30314,26 @@ window.SEASON0_STATS = {
       "1513255074346832111": {
         "wins": 1,
         "losses": 0
+      },
+      "1204668604952608789": {
+        "wins": 1,
+        "losses": 0
+      },
+      "722828551929331732": {
+        "wins": 0,
+        "losses": 1
+      },
+      "987853918631514153": {
+        "wins": 0,
+        "losses": 3
+      },
+      "1355569947853586634": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1467052285908615281": {
+        "wins": 1,
+        "losses": 0
       }
     },
     "by_mode": {
@@ -28362,8 +30364,8 @@ window.SEASON0_STATS = {
         ]
       },
       "warped_forest_118": {
-        "wins": 24,
-        "losses": 20,
+        "wins": 31,
+        "losses": 27,
         "draws": 7,
         "times": [
           1273,
@@ -28385,7 +30387,12 @@ window.SEASON0_STATS = {
           1056,
           1182,
           1123,
-          1562
+          1562,
+          1415,
+          1179,
+          975,
+          816,
+          1444
         ]
       },
       "desert_temple_116": {
@@ -28485,10 +30492,10 @@ window.SEASON0_STATS = {
     }
   },
   "1131590728447971409": {
-    "total_games": 86,
-    "games_since_reset": 86,
-    "wins": 26,
-    "losses": 56,
+    "total_games": 98,
+    "games_since_reset": 98,
+    "wins": 33,
+    "losses": 61,
     "draws": 4,
     "forfeits": 3,
     "peak_elo": 1001,
@@ -28514,7 +30521,12 @@ window.SEASON0_STATS = {
       783,
       724,
       774,
-      968
+      968,
+      960,
+      999,
+      1221,
+      1257,
+      982
     ],
     "head_to_head": {
       "1452226277896486926": {
@@ -28530,8 +30542,8 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "533815600003285012": {
-        "wins": 4,
-        "losses": 4
+        "wins": 5,
+        "losses": 5
       },
       "860114717158539265": {
         "wins": 0,
@@ -28567,7 +30579,7 @@ window.SEASON0_STATS = {
       },
       "811682515014254623": {
         "wins": 0,
-        "losses": 3
+        "losses": 4
       },
       "1196174169524670574": {
         "wins": 1,
@@ -28578,7 +30590,7 @@ window.SEASON0_STATS = {
         "losses": 1
       },
       "936633999642746970": {
-        "wins": 2,
+        "wins": 4,
         "losses": 1
       },
       "1252670589374562356": {
@@ -28607,7 +30619,7 @@ window.SEASON0_STATS = {
       },
       "795087455018942468": {
         "wins": 0,
-        "losses": 5
+        "losses": 6
       },
       "1503386826583441479": {
         "wins": 1,
@@ -28615,7 +30627,7 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 0,
-        "losses": 2
+        "losses": 3
       },
       "1414768997852778496": {
         "wins": 1,
@@ -28623,6 +30635,22 @@ window.SEASON0_STATS = {
       },
       "1371434730091974767": {
         "wins": 0,
+        "losses": 1
+      },
+      "1471895905484673035": {
+        "wins": 1,
+        "losses": 0
+      },
+      "724668431793651742": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1294019603969736779": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1062411728849223861": {
+        "wins": 1,
         "losses": 1
       }
     },
@@ -28646,19 +30674,20 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 4,
-        "losses": 21,
+        "wins": 5,
+        "losses": 22,
         "draws": 3,
         "times": [
           1203,
           745,
           1354,
-          1200
+          1200,
+          1257
         ]
       },
       "warped_forest_118": {
-        "wins": 10,
-        "losses": 20,
+        "wins": 14,
+        "losses": 23,
         "draws": 0,
         "times": [
           1468,
@@ -28669,7 +30698,10 @@ window.SEASON0_STATS = {
           956,
           783,
           774,
-          968
+          968,
+          960,
+          1221,
+          982
         ]
       },
       "desert_temple_116": {
@@ -28679,8 +30711,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 12,
-        "losses": 15,
+        "wins": 14,
+        "losses": 16,
         "draws": 1,
         "times": [
           968,
@@ -28691,7 +30723,8 @@ window.SEASON0_STATS = {
           961,
           589,
           913,
-          724
+          724,
+          999
         ]
       },
       "buried_treasure_118": {
@@ -28940,10 +30973,10 @@ window.SEASON0_STATS = {
     }
   },
   "1346019420568289300": {
-    "total_games": 50,
-    "games_since_reset": 50,
+    "total_games": 51,
+    "games_since_reset": 51,
     "wins": 15,
-    "losses": 16,
+    "losses": 17,
     "draws": 19,
     "forfeits": 0,
     "peak_elo": 1031,
@@ -29036,6 +31069,10 @@ window.SEASON0_STATS = {
       "1392409372465954876": {
         "wins": 1,
         "losses": 0
+      },
+      "1062411728849223861": {
+        "wins": 0,
+        "losses": 1
       }
     },
     "by_mode": {
@@ -29084,7 +31121,7 @@ window.SEASON0_STATS = {
       },
       "ruined_portal_118": {
         "wins": 8,
-        "losses": 5,
+        "losses": 6,
         "draws": 5,
         "times": [
           1945,
@@ -31596,15 +33633,24 @@ window.SEASON0_STATS = {
     }
   },
   "1489016751692972183": {
-    "total_games": 0,
-    "games_since_reset": 0,
+    "total_games": 2,
+    "games_since_reset": 2,
     "wins": 0,
-    "losses": 0,
+    "losses": 2,
     "draws": 0,
     "forfeits": 0,
     "peak_elo": 1000,
     "completion_times": [],
-    "head_to_head": {},
+    "head_to_head": {
+      "936633999642746970": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1436409282517139477": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
     "by_mode": {
       "stronghold_116": {
         "wins": 0,
@@ -31632,7 +33678,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "times": []
       },
@@ -31644,7 +33690,7 @@ window.SEASON0_STATS = {
       },
       "ruined_portal_118": {
         "wins": 0,
-        "losses": 0,
+        "losses": 1,
         "draws": 0,
         "times": []
       },
@@ -32732,30 +34778,31 @@ window.SEASON0_STATS = {
     }
   },
   "1414768997852778496": {
-    "total_games": 37,
-    "games_since_reset": 37,
-    "wins": 3,
-    "losses": 29,
+    "total_games": 56,
+    "games_since_reset": 56,
+    "wins": 8,
+    "losses": 43,
     "draws": 5,
-    "forfeits": 10,
+    "forfeits": 17,
     "peak_elo": 1000,
     "completion_times": [
       1442,
       1431,
-      1169
+      1169,
+      810
     ],
     "head_to_head": {
       "768447732137852959": {
         "wins": 0,
-        "losses": 7
+        "losses": 8
       },
       "1294076838527893606": {
         "wins": 0,
         "losses": 1
       },
       "1383851800901451839": {
-        "wins": 0,
-        "losses": 9
+        "wins": 2,
+        "losses": 14
       },
       "1102987777332748339": {
         "wins": 3,
@@ -32779,7 +34826,7 @@ window.SEASON0_STATS = {
       },
       "987853918631514153": {
         "wins": 0,
-        "losses": 1
+        "losses": 2
       },
       "919384576382623744": {
         "wins": 0,
@@ -32788,26 +34835,51 @@ window.SEASON0_STATS = {
       "795087455018942468": {
         "wins": 0,
         "losses": 1
+      },
+      "1006889990405509120": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1192866786790604820": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1514773775885926501": {
+        "wins": 1,
+        "losses": 2
+      },
+      "1316399287592026162": {
+        "wins": 1,
+        "losses": 1
+      },
+      "860114717158539265": {
+        "wins": 0,
+        "losses": 2
+      },
+      "1460608189182509198": {
+        "wins": 1,
+        "losses": 0
       }
     },
     "by_mode": {
       "stronghold_116": {
-        "wins": 0,
-        "losses": 6,
+        "wins": 1,
+        "losses": 8,
         "draws": 1,
         "times": []
       },
       "ruined_portal_116": {
-        "wins": 1,
-        "losses": 4,
+        "wins": 2,
+        "losses": 5,
         "draws": 0,
         "times": [
-          1442
+          1442,
+          810
         ]
       },
       "village_116": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 1,
+        "losses": 4,
         "draws": 1,
         "times": []
       },
@@ -32819,19 +34891,19 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "times": []
       },
       "desert_temple_116": {
-        "wins": 0,
-        "losses": 5,
+        "wins": 2,
+        "losses": 8,
         "draws": 2,
         "times": []
       },
       "ruined_portal_118": {
         "wins": 0,
-        "losses": 3,
+        "losses": 4,
         "draws": 0,
         "times": []
       },
@@ -32843,7 +34915,7 @@ window.SEASON0_STATS = {
       },
       "shipwreck_116": {
         "wins": 2,
-        "losses": 5,
+        "losses": 9,
         "draws": 1,
         "times": [
           1431,
@@ -32853,16 +34925,20 @@ window.SEASON0_STATS = {
     }
   },
   "1264027393673138242": {
-    "total_games": 1,
-    "games_since_reset": 1,
+    "total_games": 2,
+    "games_since_reset": 2,
     "wins": 0,
-    "losses": 1,
+    "losses": 2,
     "draws": 0,
     "forfeits": 1,
     "peak_elo": 1000,
     "completion_times": [],
     "head_to_head": {
       "1294019603969736779": {
+        "wins": 0,
+        "losses": 1
+      },
+      "375037139731087370": {
         "wins": 0,
         "losses": 1
       }
@@ -32894,7 +34970,7 @@ window.SEASON0_STATS = {
       },
       "warped_forest_118": {
         "wins": 0,
-        "losses": 1,
+        "losses": 2,
         "draws": 0,
         "times": []
       },
@@ -32925,15 +35001,17 @@ window.SEASON0_STATS = {
     }
   },
   "1294019603969736779": {
-    "total_games": 4,
-    "games_since_reset": 4,
-    "wins": 2,
-    "losses": 1,
+    "total_games": 13,
+    "games_since_reset": 13,
+    "wins": 6,
+    "losses": 6,
     "draws": 1,
-    "forfeits": 0,
-    "peak_elo": 1039,
+    "forfeits": 1,
+    "peak_elo": 1084,
     "completion_times": [
-      1165
+      1165,
+      953,
+      1256
     ],
     "head_to_head": {
       "1264027393673138242": {
@@ -32947,6 +35025,34 @@ window.SEASON0_STATS = {
       "987853918631514153": {
         "wins": 0,
         "losses": 1
+      },
+      "1452226277896486926": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1513255074346832111": {
+        "wins": 1,
+        "losses": 0
+      },
+      "919384576382623744": {
+        "wins": 1,
+        "losses": 0
+      },
+      "973672722758500414": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1131590728447971409": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1347567465395392512": {
+        "wins": 1,
+        "losses": 1
+      },
+      "811682515014254623": {
+        "wins": 0,
+        "losses": 2
       }
     },
     "by_mode": {
@@ -32969,16 +35075,20 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 0,
-        "losses": 0,
+        "wins": 2,
+        "losses": 2,
         "draws": 0,
-        "times": []
+        "times": [
+          953
+        ]
       },
       "warped_forest_118": {
-        "wins": 1,
-        "losses": 1,
+        "wins": 2,
+        "losses": 3,
         "draws": 0,
-        "times": []
+        "times": [
+          1256
+        ]
       },
       "desert_temple_116": {
         "wins": 0,
@@ -32987,8 +35097,8 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 1,
-        "losses": 0,
+        "wins": 2,
+        "losses": 1,
         "draws": 1,
         "times": [
           1165
@@ -33950,17 +36060,19 @@ window.SEASON0_STATS = {
     }
   },
   "1319828319449124914": {
-    "total_games": 8,
-    "games_since_reset": 8,
-    "wins": 4,
-    "losses": 3,
+    "total_games": 20,
+    "games_since_reset": 20,
+    "wins": 6,
+    "losses": 13,
     "draws": 1,
-    "forfeits": 0,
-    "peak_elo": 1025,
+    "forfeits": 3,
+    "peak_elo": 1035,
     "completion_times": [
       1115,
       1011,
-      1274
+      1274,
+      1475,
+      966
     ],
     "head_to_head": {
       "1453993107753271310": {
@@ -33973,17 +36085,45 @@ window.SEASON0_STATS = {
       },
       "1452226277896486926": {
         "wins": 1,
-        "losses": 1
+        "losses": 2
       },
       "1371434730091974767": {
         "wins": 1,
         "losses": 0
       },
       "936633999642746970": {
-        "wins": 1,
+        "wins": 2,
         "losses": 0
       },
       "811682515014254623": {
+        "wins": 0,
+        "losses": 2
+      },
+      "1062411728849223861": {
+        "wins": 1,
+        "losses": 0
+      },
+      "919384576382623744": {
+        "wins": 0,
+        "losses": 1
+      },
+      "722828551929331732": {
+        "wins": 0,
+        "losses": 3
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 1
+      },
+      "987853918631514153": {
+        "wins": 0,
+        "losses": 1
+      },
+      "724668431793651742": {
+        "wins": 0,
+        "losses": 1
+      },
+      "795087455018942468": {
         "wins": 0,
         "losses": 1
       }
@@ -34008,14 +36148,16 @@ window.SEASON0_STATS = {
         "times": []
       },
       "bastion_118": {
-        "wins": 0,
-        "losses": 2,
+        "wins": 1,
+        "losses": 5,
         "draws": 0,
-        "times": []
+        "times": [
+          1475
+        ]
       },
       "warped_forest_118": {
         "wins": 3,
-        "losses": 0,
+        "losses": 6,
         "draws": 1,
         "times": [
           1011,
@@ -34029,11 +36171,12 @@ window.SEASON0_STATS = {
         "times": []
       },
       "ruined_portal_118": {
-        "wins": 1,
-        "losses": 1,
+        "wins": 2,
+        "losses": 2,
         "draws": 0,
         "times": [
-          1115
+          1115,
+          966
         ]
       },
       "buried_treasure_118": {
@@ -34252,6 +36395,1265 @@ window.SEASON0_STATS = {
     }
   },
   "1513255074346832111": {
+    "total_games": 4,
+    "games_since_reset": 4,
+    "wins": 0,
+    "losses": 4,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "533815600003285012": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1294019603969736779": {
+        "wins": 0,
+        "losses": 1
+      },
+      "936633999642746970": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1102987777332748339": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1204668604952608789": {
+    "total_games": 4,
+    "games_since_reset": 4,
+    "wins": 1,
+    "losses": 3,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [
+      1516
+    ],
+    "head_to_head": {
+      "533815600003285012": {
+        "wins": 0,
+        "losses": 1
+      },
+      "724668431793651742": {
+        "wins": 1,
+        "losses": 0
+      },
+      "1452226277896486926": {
+        "wins": 0,
+        "losses": 1
+      },
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 1,
+        "losses": 2,
+        "draws": 0,
+        "times": [
+          1516
+        ]
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1369785397298729212": {
+    "total_games": 0,
+    "games_since_reset": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1471895905484673035": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1131590728447971409": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1164191742816440340": {
+    "total_games": 7,
+    "games_since_reset": 7,
+    "wins": 0,
+    "losses": 6,
+    "draws": 1,
+    "forfeits": 3,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "795087455018942468": {
+        "wins": 0,
+        "losses": 3
+      },
+      "375037139731087370": {
+        "wins": 0,
+        "losses": 2
+      },
+      "860114717158539265": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 1,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 5,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1512618516170281016": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "811682515014254623": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "968692071600902244": {
+    "total_games": 6,
+    "games_since_reset": 6,
+    "wins": 0,
+    "losses": 5,
+    "draws": 1,
+    "forfeits": 2,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1415098611888296059": {
+        "wins": 0,
+        "losses": 5
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 5,
+        "draws": 1,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1405599487988072459": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 0,
+    "draws": 1,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "983715126874095638": {
+    "total_games": 0,
+    "games_since_reset": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1510012033310134412": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "987853918631514153": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1278243102498230305": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1398055914925326356": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1192866786790604820": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1011,
+    "completion_times": [],
+    "head_to_head": {
+      "1414768997852778496": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1320885872660578367": {
+    "total_games": 2,
+    "games_since_reset": 2,
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "forfeits": 2,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1062411728849223861": {
+        "wins": 0,
+        "losses": 1
+      },
+      "919384576382623744": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1336218309544378572": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1017,
+    "completion_times": [],
+    "head_to_head": {
+      "919384576382623744": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1514773775885926501": {
+    "total_games": 4,
+    "games_since_reset": 4,
+    "wins": 3,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1004,
+    "completion_times": [
+      894,
+      1053
+    ],
+    "head_to_head": {
+      "1414768997852778496": {
+        "wins": 2,
+        "losses": 1
+      },
+      "663349775541993474": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "times": [
+          894
+        ]
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 2,
+        "losses": 0,
+        "draws": 0,
+        "times": [
+          1053
+        ]
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1355569947853586634": {
+    "total_games": 2,
+    "games_since_reset": 2,
+    "wins": 0,
+    "losses": 2,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1062411728849223861": {
+        "wins": 0,
+        "losses": 1
+      },
+      "533815600003285012": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 2,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1212925444966457466": {
+    "total_games": 0,
+    "games_since_reset": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1467052285908615281": {
     "total_games": 1,
     "games_since_reset": 1,
     "wins": 0,
@@ -34322,5 +37724,572 @@ window.SEASON0_STATS = {
         "times": []
       }
     }
+  },
+  "1495819502502543640": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "795087455018942468": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1460608189182509198": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1414768997852778496": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1340512796110098432": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 1,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1020,
+    "completion_times": [],
+    "head_to_head": {
+      "786258412034981948": {
+        "wins": 1,
+        "losses": 0
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 1,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "786258412034981948": {
+    "total_games": 2,
+    "games_since_reset": 2,
+    "wins": 0,
+    "losses": 1,
+    "draws": 1,
+    "forfeits": 1,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "1340512796110098432": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 1,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1441493310652022955": {
+    "total_games": 0,
+    "games_since_reset": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1461488336467132527": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "919384576382623744": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "714227309371981824": {
+    "total_games": 0,
+    "games_since_reset": 0,
+    "wins": 0,
+    "losses": 0,
+    "draws": 0,
+    "forfeits": 0,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {},
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
+  },
+  "1286753533877682292": {
+    "total_games": 1,
+    "games_since_reset": 1,
+    "wins": 0,
+    "losses": 1,
+    "draws": 0,
+    "forfeits": 1,
+    "peak_elo": 1000,
+    "completion_times": [],
+    "head_to_head": {
+      "795087455018942468": {
+        "wins": 0,
+        "losses": 1
+      }
+    },
+    "by_mode": {
+      "stronghold_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "village_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "bastion_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "warped_forest_118": {
+        "wins": 0,
+        "losses": 1,
+        "draws": 0,
+        "times": []
+      },
+      "desert_temple_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "ruined_portal_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "buried_treasure_118": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      },
+      "shipwreck_116": {
+        "wins": 0,
+        "losses": 0,
+        "draws": 0,
+        "times": []
+      }
+    }
   }
+}
 }
