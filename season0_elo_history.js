@@ -1,6 +1,5 @@
 // season0_elo_history.js
 window.SEASON0_ELO_HISTORY = {
-{
   "919250793461334076": [
     {
       "elo": 1113,
@@ -36499,5 +36498,4 @@ window.SEASON0_ELO_HISTORY = {
       "timestamp": 1781488359
     }
   ]
-}
 }
