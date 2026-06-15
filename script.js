@@ -5,10 +5,7 @@ let filteredPlayers = [];
 let leaderboardData = [];
 let leaderboardLoaded = 10;
 let leaderboardTotal = 0;
-let selectedVersion = null;
-let selectedMode = null;
 let currentPlayerId = null;
-let modesData = null;
 
 const API_BASE = 'https://ranked.maehy.aninternettroll.xyz';
 
@@ -196,7 +193,89 @@ const KNOWN_PLAYERS = {
   "1257541162777182322": "meynima",
   "1252670589374562356": "Dinoduw",
   "1449754106188267582": "united_eagle_05190",
-  "1241628330990768220": "ZynonXmc"
+  "1241628330990768220": "ZynonXmc",
+  "1000726921006547004": "OmarXD",
+  "1006889990405509120": "chalkolate",
+  "1011831571784929340": "\u3082\u3063\u3055\u3093",
+  "1046014558847914036": "CookieNr05",
+  "1053481429629141014": "Harst",
+  "1104426370886541486": "Musky",
+  "1119297487426027581": "dxshez",
+  "1164191742816440340": "V\u00d8LTIE",
+  "1169016438359597206": "Maxisos",
+  "1191423265768476766": "lv114514",
+  "1192866786790604820": "\u3057\u3083\u3051",
+  "1204668604952608789": "\u6751\u4eba",
+  "1222920563794776154": "\uff53\uff4e\uff4f\uff57\uff46\uff41\uff4c\uff4c!\u2122",
+  "1225733350807834666": "AsianAverage",
+  "1278243102498230305": "niche",
+  "1286753533877682292": "Litos",
+  "1294019603969736779": "ProCreeper",
+  "1317876474493014087": "laquiz",
+  "1320885872660578367": "NineDogs345",
+  "1336218309544378572": "KingZone",
+  "1340512796110098432": "Mycar5656",
+  "1346019420568289300": "PB02",
+  "1347567465395392512": "Aknilluka223",
+  "1355569947853586634": "QwickSilver",
+  "1356080842010525749": "\u304b\u3064",
+  "1379627754852712468": "OphieKBM",
+  "1398055914925326356": "kaycookie",
+  "1405599487988072459": "BunnyEater",
+  "1408893640402796727": "ThatIsRisky",
+  "1415098611888296059": "wayneypooo",
+  "1426134191313256522": "king",
+  "1435857284881453077": "Shade",
+  "1444745933329006765": "G.lion",
+  "1445202255723630733": "Happy!!!",
+  "1448992086643708066": "AAisgod",
+  "1452226277896486926": "LyricTadpole702",
+  "1460608189182509198": "Shun Ying",
+  "1461488336467132527": "Saivion townes",
+  "1465424603407974561": "J33RY COBBLE",
+  "1467052285908615281": "\u262c\ud81a\udcd8\u20b2\u20b3\u20a5\u0142\u20a6\u20b2\u0e3f\u2c64\u00d8\u2c6b\ud81a\udcd8\u262c",
+  "1471895905484673035": "TheRealCK9",
+  "1473097833660940370": "Microdusty (Timedata thingy)",
+  "1489016751692972183": "Ehtancraft",
+  "1495819502502543640": "Cal",
+  "1510012033310134412": "Vasusenna",
+  "1511866658006896693": "PlaneController",
+  "1512618516170281016": "Aswint8841",
+  "1514773775885926501": "Kihonneko72 2",
+  "333043405259014145": "plushy",
+  "366219142799556620": "Khalooody",
+  "375037139731087370": "raichu",
+  "416967458075836427": "DotALotTroller",
+  "531221170242977818": "Evident",
+  "533815600003285012": "Noshon",
+  "575014590371463178": "gucciganglilaku",
+  "609484666356891650": "psemtube",
+  "612907640825184256": "Danny15",
+  "630060438633054238": "Phorux",
+  "642197108681736202": "FireAspect",
+  "669945802084319232": "apfelsaft",
+  "679080865942470696": "caleb",
+  "681186493309779984": "Craze",
+  "722828551929331732": "EpicTurtle1707",
+  "732277059862134824": "Gio",
+  "748550850481225728": "level7cr7",
+  "751465838124597439": "NinjaBanana08",
+  "753751964835119115": "OphieSR",
+  "760141255963050055": "Jaydan",
+  "768447732137852959": "TheOriginalCreeper",
+  "786258412034981948": "MCborg",
+  "795087455018942468": "halealexxd",
+  "811682515014254623": "reve",
+  "820463160594137118": "2xf",
+  "860114717158539265": "Bronco",
+  "915154529304084530": "MediumRareSteak",
+  "919250793461334076": "Ma Ehy",
+  "946304727946244106": "\ud835\udd3c\ud835\udd5d\u0268\u0167\u0247\ud835\udd79\ud835\udd8e\ud835\udd93\ud835\udd8f\ud835\udd86",
+  "968686355007807538": "Emerald",
+  "968692071600902244": "Cudder",
+  "973672722758500414": "x2sky",
+  "978126878370054174": "june",
+  "987853918631514153": "Darkmint"
 };
 
 // Cache for player stats API calls: id -> data
@@ -316,17 +395,6 @@ async function fetchPlayerStats(userId) {
 
 async function fetchPlayerMatches(userId, page = 1, perPage = 50) {
   return await apiCall(`/api/matches/${userId}?page=${page}&per_page=${perPage}`);
-}
-
-async function fetchModes() {
-  return await apiCall('/api/modes');
-}
-
-async function fetchSoloSeed(version, mode) {
-  return await apiCall('/api/solo', {
-    method: 'POST',
-    body: JSON.stringify({ version, mode })
-  });
 }
 
 // HOME / QUICK STATS
@@ -878,83 +946,6 @@ async function openFullStats() {
   }
 }
 
-// SOLO TAB
-async function loadModes() {
-  try {
-    modesData = await fetchModes();
-  } catch (err) {
-    console.error('Failed to load modes:', err);
-  }
-}
-
-function selectVersion(version) {
-  selectedVersion = version;
-  selectedMode = null;
-  document.getElementById('ver-116').classList.remove('selected');
-  document.getElementById('ver-118').classList.remove('selected');
-  document.getElementById(`ver-${version}`).classList.add('selected');
-
-  const modeSection = document.getElementById('mode-section');
-  if (!modesData) { modeSection.style.display = 'none'; return; }
-
-  const versionData = modesData[version];
-  if (!versionData) { modeSection.style.display = 'none'; return; }
-
-  const modes = versionData.modes || [];
-  const modeList = document.getElementById('mode-list');
-  modeList.innerHTML = modes.map(mode => `
-    <button class="mode-btn" onclick="selectMode('${mode.id}')" data-mode="${mode.id}">
-      <span class="mode-btn-dot"></span>
-      ${escapeHtml(mode.name)}
-    </button>
-  `).join('');
-
-  modeSection.style.display = 'block';
-  document.getElementById('seed-result').style.display = 'none';
-}
-
-function selectMode(modeId) {
-  selectedMode = modeId;
-  document.querySelectorAll('.mode-btn').forEach(btn => {
-    btn.classList.remove('selected');
-    if (btn.getAttribute('data-mode') === modeId) btn.classList.add('selected');
-  });
-}
-
-async function getSeed() {
-  if (!selectedVersion || !selectedMode) {
-    showToast('Please select both version and mode first!');
-    return;
-  }
-
-  const getSeedBtn = document.getElementById('get-seed-btn');
-  getSeedBtn.disabled = true;
-  getSeedBtn.textContent = 'LOADING...';
-
-  try {
-    const result = await fetchSoloSeed(selectedVersion, selectedMode);
-    const rawSeed = String(result.seed || '');
-    const seed = rawSeed.includes(',') ? rawSeed.split(',')[0] : rawSeed;
-
-    document.getElementById('seed-mode-label').textContent = result.mode;
-    document.getElementById('seed-value').textContent = seed;
-    document.getElementById('seed-result').style.display = 'block';
-    showToast('Seed generated! Click to copy.');
-  } catch (err) {
-    console.error('Failed to get seed:', err);
-    showToast('Failed to get seed. Please try again.');
-  } finally {
-    getSeedBtn.disabled = false;
-    getSeedBtn.textContent = 'GET SEED';
-  }
-}
-
-function copySeed() {
-  const seedValue = document.getElementById('seed-value').textContent;
-  navigator.clipboard.writeText(seedValue);
-  showToast(`Copied: ${seedValue}`);
-}
-
 // MODALS & TOAST
 function openModal(modalId) {
   document.getElementById(modalId).classList.add('open');
@@ -1014,7 +1005,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
   await updateQuickStats();
   await renderLeaderboard();
-  await loadModes();
 
   document.querySelectorAll('.nav-item').forEach(btn => {
     btn.addEventListener('click', () => switchTab(btn.getAttribute('data-tab')));
@@ -1032,10 +1022,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 window.switchTab = switchTab;
-window.selectVersion = selectVersion;
-window.selectMode = selectMode;
-window.getSeed = getSeed;
-window.copySeed = copySeed;
 window.loadMoreLeaderboard = loadMoreLeaderboard;
 window.selectSeason = selectSeason;
 window.filterStats = filterStats;
